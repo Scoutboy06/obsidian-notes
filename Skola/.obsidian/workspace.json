@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "b3a7d22dc57d3477",
+    "type": "split",
+    "children": [
+      {
+        "id": "b37c1046eac60627",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77f0ee407aa63e03",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Matte 4/Uppg 1210.excalidraw.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "593091b150fcd251",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1a5213bf356733b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0a66fc7be8639f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f05ee1a200c1af54",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "029558e3082fcd3f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "02ec46ec98e7416a",
+    "type": "split",
+    "children": [
+      {
+        "id": "079f2c79c67dfef6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32d22336e7bbf665",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Matte 4/Uppg 1210.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "504551636730912c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Matte 4/Uppg 1210.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1683a521dccc9ff9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "43506f9a1718881c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Matte 4/Uppg 1210.excalidraw.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "77f0ee407aa63e03",
+  "lastOpenFiles": [
+    "Matte 4/Uppg 1208.excalidraw.md",
+    "Matte 4/Uppg 1210.excalidraw.md",
+    "Matte 4/Uppg 1206.excalidraw.md",
+    "Matte 4/Uppg 1110.excalidraw.md",
+    "Matte 4/Uppg 1108.excalidraw.md",
+    "Matte 4/Uppg 1104.excalidraw.md",
+    "Matte 4/Untitled.md",
+    "Matte 4/Genomgång 1.excalidraw.md",
+    "Untitled.md",
+    "Matte Spec/Uppg 1101.excalidraw.md",
+    "Matte Spec/Vektorer.md",
+    "Matte Spec/11.excalidraw.md",
+    "Matte Spec/Uppg 1111.excalidraw.md",
+    "Matte Spec/Drawing 2024-08-21 20.06.26.excalidraw.md",
+    "Excalidraw/Drawing 2024-08-21 20.05.08.excalidraw.md",
+    "Excalidraw",
+    "2024-08-21.md",
+    "Untitled.canvas",
+    "Matte Spec",
+    "Matte 4",
+    "Matte 5",
+    "Fysik 2",
+    "Welcome.md"
+  ]
+}
