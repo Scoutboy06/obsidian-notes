@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c0d65e529996f55f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Object.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2cb4941a45b24b65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Object.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,13 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0d65e529996f55f",
+  "active": "2cb4941a45b24b65",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Object.md",
-    "Chapter 1 - Introduction.md",
-    "Instance variable.md",
     "Class.md",
-    "Method.md"
+    "Instance variable.md",
+    "Instantiating a class.md",
+    "Method.md",
+    "Object.md",
+    "Chapter 1 - Introduction.md"
   ]
 }
