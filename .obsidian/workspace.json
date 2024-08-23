@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "b3a7d22dc57d3477",
+    "id": "5ac0ac8d0e0564a6",
     "type": "split",
     "children": [
       {
-        "id": "048547e474669c41",
+        "id": "2352e6fc4d8989af",
         "type": "tabs",
         "children": [
           {
-            "id": "39d190dfb3016f10",
+            "id": "a434760018d07f85",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -21,25 +21,25 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "593091b150fcd251",
+    "id": "bbc09e5dbf86a886",
     "type": "split",
     "children": [
       {
-        "id": "b1a5213bf356733b",
+        "id": "da756924da575d73",
         "type": "tabs",
         "children": [
           {
-            "id": "a0a66fc7be8639f4",
+            "id": "099ab8d985363198",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "f05ee1a200c1af54",
+            "id": "aa819508d1a2039c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +54,7 @@
             }
           },
           {
-            "id": "029558e3082fcd3f",
+            "id": "7e02be8dd39fb8ef",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,15 +68,15 @@
     "width": 300
   },
   "right": {
-    "id": "02ec46ec98e7416a",
+    "id": "afa7c1d5b8857ae5",
     "type": "split",
     "children": [
       {
-        "id": "079f2c79c67dfef6",
+        "id": "d9368ec3b1971685",
         "type": "tabs",
         "children": [
           {
-            "id": "32d22336e7bbf665",
+            "id": "354967ef28bb1cbe",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -92,7 +92,7 @@
             }
           },
           {
-            "id": "504551636730912c",
+            "id": "80c54f6b6b0a0880",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "1683a521dccc9ff9",
+            "id": "02e5b41ce84d7b8c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,13 +114,11 @@
             }
           },
           {
-            "id": "43506f9a1718881c",
+            "id": "bbc504aaa4a31efc",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Fysik 2/Uppg 105.excalidraw.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -140,52 +138,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0a66fc7be8639f4",
-  "lastOpenFiles": [
-    "Fysik 2/Ex 1.7.excalidraw.md",
-    "Fysik 2/Uppg 105.excalidraw.md",
-    "Fysik 2/Ex 1.6.excalidraw.md",
-    "Fysik 2/Ex 1.5.excalidraw.md",
-    "Excalidraw/Uppg .excalidraw.md",
-    "Excalidraw",
-    "Matte 4/Uppg 1230.excalidraw.md",
-    "Fysik 2/Bok",
-    "Matte 4/Bok/031.jpg",
-    "Matte 4/Uppg 1215.excalidraw.md",
-    "Matte 4/Uppg 1227.excalidraw.md",
-    "Matte 4/Bok/017.jpg",
-    "Matte 4/Uppg ex.excalidraw.md",
-    "Matte 4/Bok/016.jpg",
-    "Matte 4/Bok/015.jpg",
-    "Matte 4/Bok/014.jpg",
-    "Matte 4/Bok/013.jpg",
-    "Matte 4/Bok/012.jpg",
-    "Matte 4/Bok/011.jpg",
-    "Matte 4/Bok/010.jpg",
-    "Matte 4/Genomgång 2024-08-23.excalidraw.md",
-    "Matte 4/Bok/009.jpg",
-    "Matte 4/Bok",
-    "Matte 4/New folder",
-    "Matte 4/Uppg 1210.excalidraw.md",
-    "Matte 4/Uppg 1208.excalidraw.md",
-    "Matte 4/Uppg 1206.excalidraw.md",
-    "Matte 4/Uppg 1110.excalidraw.md",
-    "Matte 4/Uppg 1108.excalidraw.md",
-    "Matte 4/Uppg 1104.excalidraw.md",
-    "Matte 4/Untitled.md",
-    "Matte 4/Genomgång 1.excalidraw.md",
-    "Untitled.md",
-    "Matte Spec/Uppg 1101.excalidraw.md",
-    "Matte Spec/Vektorer.md",
-    "Matte Spec/11.excalidraw.md",
-    "Matte Spec/Uppg 1111.excalidraw.md",
-    "Matte Spec/Drawing 2024-08-21 20.06.26.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-21 20.05.08.excalidraw.md",
-    "2024-08-21.md",
-    "Untitled.canvas",
-    "Matte Spec",
-    "Matte 4",
-    "Matte 5",
-    "Fysik 2"
-  ]
+  "active": "a434760018d07f85",
+  "lastOpenFiles": []
 }
