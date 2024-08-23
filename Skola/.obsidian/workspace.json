@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2efea2c07ab343dc",
+        "id": "7a95d2ba9fd183e4",
         "type": "tabs",
         "children": [
           {
-            "id": "2ebaf79f5ba49f7b",
+            "id": "b6aff50926cfb98b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Matte 4/Uppg 1210.excalidraw.md"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Matte 4/Uppg 1210.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Matte 4/Uppg 1210.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Matte 4/Uppg 1210.excalidraw.md"
+              }
             }
           }
         ]
@@ -139,16 +145,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2ebaf79f5ba49f7b",
+  "active": "b6aff50926cfb98b",
   "lastOpenFiles": [
-    "Matte 4/Uppg 1210.excalidraw.md",
     "Matte 4/Uppg 1208.excalidraw.md",
     "Matte 4/Uppg 1206.excalidraw.md",
     "Matte 4/Uppg 1110.excalidraw.md",
     "Matte 4/Uppg 1108.excalidraw.md",
     "Matte 4/Uppg 1104.excalidraw.md",
-    "Matte 4/Untitled.md",
     "Matte 4/Genomgång 1.excalidraw.md",
+    "Matte 4/Uppg 1210.excalidraw.md",
+    "Matte 4/Untitled.md",
     "Untitled.md",
     "Matte Spec/Uppg 1101.excalidraw.md",
     "Matte Spec/Vektorer.md",
