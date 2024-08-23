@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "048547e474669c41",
+        "id": "2ef779ba7b2166b9",
         "type": "tabs",
         "children": [
           {
-            "id": "39d190dfb3016f10",
+            "id": "bde565aecd1a5771",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "02ec46ec98e7416a",
@@ -118,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Fysik 2/Uppg 105.excalidraw.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -137,14 +136,15 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a0a66fc7be8639f4",
+  "active": "bde565aecd1a5771",
   "lastOpenFiles": [
+    "Fysik 2/Ex 1.6.excalidraw.md",
     "Fysik 2/Ex 1.7.excalidraw.md",
     "Fysik 2/Uppg 105.excalidraw.md",
-    "Fysik 2/Ex 1.6.excalidraw.md",
     "Fysik 2/Ex 1.5.excalidraw.md",
     "Excalidraw/Uppg .excalidraw.md",
     "Excalidraw",
