@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0ac43374857ebf80",
+            "id": "86b07844f2a9bc11",
             "type": "leaf",
             "state": {
               "type": "recipe-view",
               "state": {
-                "file": "Burritos/Taco burritos.md"
+                "file": "Bryna köttfärs.md"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Burritos/Taco burritos.md",
+                "file": "Bryna köttfärs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Burritos/Taco burritos.md",
+                "file": "Bryna köttfärs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Burritos/Taco burritos.md"
+                "file": "Bryna köttfärs.md"
               }
             }
           }
@@ -146,9 +146,13 @@
       "recipe-view:Toggle recipe view": false
     }
   },
-  "active": "0ac43374857ebf80",
+  "active": "86b07844f2a9bc11",
   "lastOpenFiles": [
     "Burritos/Taco burritos.md",
+    "Bryna köttfärs.md",
+    "Bryna.md",
+    "Bryn.md",
+    "Tillagning",
     "_assets/taco-burrito.jpg",
     "_assets",
     "assets/taco-burrito.jpg.~tmp",

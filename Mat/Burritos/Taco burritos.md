@@ -13,7 +13,7 @@ Viggos rating: -/10
 - 2 dl riven ost
 - 8 (ca) medium tortilla
 ## Gör så här
-1. Bryn nötfärsen i en stekpanna.
+1. [Bryna](Bryna%20köttfärs.md) nötfärsen i en stekpanna.
 2. Ha i tacokrydda, vatten och salsa. Låt det mesta av vätskan koka bort.
 3. Skär ner paprikan i mindre bitar och ha i den tillsammans med majs och ost i köttfärsen.
 4. Riv loss 8 ark aluminiumfolie.
