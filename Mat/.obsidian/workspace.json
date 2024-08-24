@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "357aba9b2244f833",
+        "id": "730b96e4a5089647",
         "type": "tabs",
         "children": [
           {
-            "id": "b263ecd7033cdca0",
+            "id": "0ac43374857ebf80",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "recipe-view",
               "state": {
-                "file": "Burritos/Taco burritos.md",
-                "mode": "source",
-                "source": false
+                "file": "Burritos/Taco burritos.md"
               }
             }
           }
@@ -129,7 +127,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -147,13 +146,13 @@
       "recipe-view:Toggle recipe view": false
     }
   },
-  "active": "b263ecd7033cdca0",
+  "active": "0ac43374857ebf80",
   "lastOpenFiles": [
+    "Burritos/Taco burritos.md",
     "_assets/taco-burrito.jpg",
     "_assets",
     "assets/taco-burrito.jpg.~tmp",
     "assets/taco-burrito.jpg",
-    "Burritos/Taco burritos.md",
     "assets/taco-burrito.webp",
     "assets/taco-burrito.webp.crdownload",
     "assets",
