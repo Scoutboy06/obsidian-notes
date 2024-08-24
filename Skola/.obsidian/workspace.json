@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2ef779ba7b2166b9",
+        "id": "02f97475b6b7add0",
         "type": "tabs",
         "children": [
           {
-            "id": "bde565aecd1a5771",
+            "id": "1077a6aec442fadc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "Matte 4/Bok/031.jpg"
+              }
             }
           }
         ]
@@ -34,7 +36,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -65,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "02ec46ec98e7416a",
@@ -82,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Matte 4/Bok/031.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Matte 4/Bok/031.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Matte 4/Bok/031.jpg"
+              }
             }
           }
         ]
@@ -140,40 +145,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bde565aecd1a5771",
+  "active": "1077a6aec442fadc",
   "lastOpenFiles": [
-    "Fysik 2/Ex 1.6.excalidraw.md",
-    "Fysik 2/Ex 1.7.excalidraw.md",
-    "Fysik 2/Uppg 105.excalidraw.md",
-    "Fysik 2/Ex 1.5.excalidraw.md",
-    "Excalidraw/Uppg .excalidraw.md",
-    "Excalidraw",
-    "Matte 4/Uppg 1230.excalidraw.md",
-    "Fysik 2/Bok",
-    "Matte 4/Bok/031.jpg",
-    "Matte 4/Uppg 1215.excalidraw.md",
-    "Matte 4/Uppg 1227.excalidraw.md",
-    "Matte 4/Bok/017.jpg",
-    "Matte 4/Uppg ex.excalidraw.md",
-    "Matte 4/Bok/016.jpg",
-    "Matte 4/Bok/015.jpg",
     "Matte 4/Bok/014.jpg",
-    "Matte 4/Bok/013.jpg",
-    "Matte 4/Bok/012.jpg",
-    "Matte 4/Bok/011.jpg",
-    "Matte 4/Bok/010.jpg",
+    "Matte 4/Bok/008.jpg",
+    "Matte 4/Uppg ex.excalidraw.md",
+    "Matte 4/Uppg 1227.excalidraw.md",
+    "Matte 4/Uppg 1215.excalidraw.md",
     "Matte 4/Genomgång 2024-08-23.excalidraw.md",
-    "Matte 4/Bok/009.jpg",
+    "Matte 4/Bok/031.jpg",
+    "Matte 4/Bok/030.jpg",
+    "Matte 4/Bok/029.jpg",
+    "Matte 4/Bok/028.jpg",
+    "Matte 4/Bok/027.jpg",
+    "Matte 4/Bok/026.jpg",
+    "Matte 4/Bok/025.jpg",
+    "Matte 4/Bok/024.jpg",
+    "Matte 4/Bok/023.jpg",
     "Matte 4/Bok",
-    "Matte 4/New folder",
+    "Fysik 2/Uppg 105.excalidraw.md",
+    "Fysik 2/Ex 1.7.excalidraw.md",
+    "Fysik 2/Ex 1.6.excalidraw.md",
+    "Fysik 2/Ex 1.5.excalidraw.md",
+    "Fysik 2",
     "Matte 4/Uppg 1210.excalidraw.md",
     "Matte 4/Uppg 1208.excalidraw.md",
     "Matte 4/Uppg 1206.excalidraw.md",
     "Matte 4/Uppg 1110.excalidraw.md",
     "Matte 4/Uppg 1108.excalidraw.md",
     "Matte 4/Uppg 1104.excalidraw.md",
-    "Matte 4/Untitled.md",
     "Matte 4/Genomgång 1.excalidraw.md",
+    "Matte 4/Untitled.md",
     "Untitled.md",
     "Matte Spec/Uppg 1101.excalidraw.md",
     "Matte Spec/Vektorer.md",
@@ -181,11 +183,12 @@
     "Matte Spec/Uppg 1111.excalidraw.md",
     "Matte Spec/Drawing 2024-08-21 20.06.26.excalidraw.md",
     "Excalidraw/Drawing 2024-08-21 20.05.08.excalidraw.md",
+    "Excalidraw",
     "2024-08-21.md",
     "Untitled.canvas",
     "Matte Spec",
     "Matte 4",
     "Matte 5",
-    "Fysik 2"
+    "Welcome.md"
   ]
 }
