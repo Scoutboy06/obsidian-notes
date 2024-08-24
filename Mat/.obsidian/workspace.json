@@ -13,7 +13,7 @@
             "state": {
               "type": "recipe-view",
               "state": {
-                "file": "Bryna köttfärs.md"
+                "file": "Burritos/Taco burritos.md"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bryna köttfärs.md",
+                "file": "Burritos/Taco burritos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bryna köttfärs.md",
+                "file": "Burritos/Taco burritos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bryna köttfärs.md"
+                "file": "Burritos/Taco burritos.md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "recipe-view:Toggle recipe view": false
     }
   },
-  "active": "86b07844f2a9bc11",
+  "active": "bc3d0538ec0c761f",
   "lastOpenFiles": [
-    "Burritos/Taco burritos.md",
     "Bryna köttfärs.md",
+    "Burritos/Taco burritos.md",
     "Bryna.md",
     "Bryn.md",
     "Tillagning",
