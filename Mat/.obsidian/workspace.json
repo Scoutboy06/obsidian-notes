@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "b3a7d22dc57d3477",
+    "id": "3ec62cfb022bcc25",
     "type": "split",
     "children": [
       {
-        "id": "67983248822b3bf8",
+        "id": "8af8172fff5491a5",
         "type": "tabs",
         "children": [
           {
-            "id": "4364e8be0904c233",
+            "id": "5d1eaa3bd4341167",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Burritos/Taco burritos.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "593091b150fcd251",
+    "id": "ef648e6de710f7e6",
     "type": "split",
     "children": [
       {
-        "id": "b1a5213bf356733b",
+        "id": "2535241ed8efdbb7",
         "type": "tabs",
         "children": [
           {
-            "id": "a0a66fc7be8639f4",
+            "id": "bc3d0538ec0c761f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +43,7 @@
             }
           },
           {
-            "id": "f05ee1a200c1af54",
+            "id": "723d434474b8ff61",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "029558e3082fcd3f",
+            "id": "d6f76ece90b6c28b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,19 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "02ec46ec98e7416a",
+    "id": "8de79dbd7f775c23",
     "type": "split",
     "children": [
       {
-        "id": "079f2c79c67dfef6",
+        "id": "d4f9a6af1a0e81df",
         "type": "tabs",
         "children": [
           {
-            "id": "32d22336e7bbf665",
+            "id": "042371c500f3dcb5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Burritos/Taco burritos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +97,19 @@
             }
           },
           {
-            "id": "504551636730912c",
+            "id": "703ac8c157b217b2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Burritos/Taco burritos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "1683a521dccc9ff9",
+            "id": "e859cfe12f9e6c22",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +120,13 @@
             }
           },
           {
-            "id": "43506f9a1718881c",
+            "id": "2c3b1f5b4dffa2e9",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Burritos/Taco burritos.md"
+              }
             }
           }
         ]
@@ -135,54 +143,13 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "4364e8be0904c233",
+  "active": "bc3d0538ec0c761f",
   "lastOpenFiles": [
-    "Matte 4/Bok/031.jpg",
-    "Matte 4/Bok/014.jpg",
-    "Matte 4/Bok/008.jpg",
-    "Matte 4/Uppg ex.excalidraw.md",
-    "Matte 4/Uppg 1227.excalidraw.md",
-    "Matte 4/Uppg 1215.excalidraw.md",
-    "Matte 4/Genomgång 2024-08-23.excalidraw.md",
-    "Matte 4/Bok/030.jpg",
-    "Matte 4/Bok/029.jpg",
-    "Matte 4/Bok/028.jpg",
-    "Matte 4/Bok/027.jpg",
-    "Matte 4/Bok/026.jpg",
-    "Matte 4/Bok/025.jpg",
-    "Matte 4/Bok/024.jpg",
-    "Matte 4/Bok/023.jpg",
-    "Matte 4/Bok",
-    "Fysik 2/Uppg 105.excalidraw.md",
-    "Fysik 2/Ex 1.7.excalidraw.md",
-    "Fysik 2/Ex 1.6.excalidraw.md",
-    "Fysik 2/Ex 1.5.excalidraw.md",
-    "Fysik 2",
-    "Matte 4/Uppg 1210.excalidraw.md",
-    "Matte 4/Uppg 1208.excalidraw.md",
-    "Matte 4/Uppg 1206.excalidraw.md",
-    "Matte 4/Uppg 1110.excalidraw.md",
-    "Matte 4/Uppg 1108.excalidraw.md",
-    "Matte 4/Uppg 1104.excalidraw.md",
-    "Matte 4/Genomgång 1.excalidraw.md",
-    "Matte 4/Untitled.md",
-    "Untitled.md",
-    "Matte Spec/Uppg 1101.excalidraw.md",
-    "Matte Spec/Vektorer.md",
-    "Matte Spec/11.excalidraw.md",
-    "Matte Spec/Uppg 1111.excalidraw.md",
-    "Matte Spec/Drawing 2024-08-21 20.06.26.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-21 20.05.08.excalidraw.md",
-    "Excalidraw",
-    "2024-08-21.md",
-    "Untitled.canvas",
-    "Matte Spec",
-    "Matte 4",
-    "Matte 5",
+    "Burritos/Taco burritos.md",
+    "Burritos",
     "Welcome.md"
   ]
 }
