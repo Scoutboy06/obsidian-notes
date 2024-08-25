@@ -1,7 +1,6 @@
 Källa: [Meal prep taco burritos - Linneas Skafferi](https://www.linneasskafferi.se/2024/06/11/meal-prep-taco-burritos/)
 
-Elias rating: -/10
-Viggos rating: -/10
+Elias rating: 7/10
 
 ![[taco-burrito.jpg|600]]
 ## Ingredienser
