@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "d711e82fc19ff53c",
+            "id": "9eed1ffed1ed873f",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Matte 4/Uppg 1233.excalidraw.md"
+                "file": "Matte 4/Uppg 1236.excalidraw.md"
               }
             }
           }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matte 4/Uppg 1233.excalidraw.md",
+                "file": "Matte 4/Uppg 1236.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matte 4/Uppg 1233.excalidraw.md",
+                "file": "Matte 4/Uppg 1236.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matte 4/Uppg 1233.excalidraw.md"
+                "file": "Matte 4/Uppg 1236.excalidraw.md"
               }
             }
           }
@@ -159,9 +159,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d711e82fc19ff53c",
+  "active": "9eed1ffed1ed873f",
   "lastOpenFiles": [
     "Matte 4/TE22A Momentplanering Trigonometriska relationer och ekvationer Ma4 Ht24.pdf",
+    "Matte 4/Uppg 1236.excalidraw.md",
     "Matte 4/Uppg 1233.excalidraw.md",
     "Matte 4/Uppg 1231.excalidraw.md",
     "Matte 4/Bok/018.jpg",
@@ -200,7 +201,6 @@
     "Matte Spec/Uppg 1101.excalidraw.md",
     "Matte Spec/Vektorer.md",
     "Matte Spec/11.excalidraw.md",
-    "Matte Spec/Uppg 1111.excalidraw.md",
     "Untitled.canvas",
     "Matte Spec",
     "Matte 4",
