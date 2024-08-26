@@ -1,7 +1,8 @@
-Deltagande: Camilla Röjemo, Joachim Bergré, Linus, Elias, Johanna
+Deltagande: Camilla Röjemo, Joachim Bergré, Linus Bergdahl, Elias Wennerlund, Johanna Nabbing, (Klas Fors), (Claes Nilsheden)
 
 Vi har fått in förslag på förändringar från två håll: Kålltorp och Nolered.
 
+Nolered:
 -  *Priser*
 	Det spelar ingen större roll vilken form av pris vi har
 	"Varför har vi ens priser?" har flera personer frågat.
@@ -24,13 +25,20 @@ Vi har fått in förslag på förändringar från två håll: Kålltorp och Nole
 	Åsikt 1: måste lämna in laguppställning 15 minuter före matchstart.
 	Åsikt 2: kan ändra fram till matchstart, går inte att ändra efter matchstart.
 	Samtliga överens om att behålla det som står i bestämmelserna.
+- *Spelare får inte spela mer än ett parti i division 4 per ordinarie speldag och rond*
+	Regeln finns till för att förhindra att en spelare spelar för många platser. Om ett lag till exempel spelar på en lördag, ska en av deras spelare inte kunna spela dagen efter i ett annat lag.
+- *Spelare som spelat för en klubb under årets distriktsserie- eller Allsvenskan säson*
+	Bestämmelsen står kvar, men det kan förtydligas. Lägg till på utvärdera-listan och kolla över till nästa år.
+- *Straffavgift för bords-WO*
+	Förslaget att höja straffavgiften (från 25 kr) eftersom summan inte är tillräckligt "straffande" lyftes. 25 kr är inte heller tillräckligt mycket för att täcka det ökade administrativa arbetet.
+- *Straffavgift för lag-WO*
+	Lag-WO avgiften just nu är 300 kr. Utvärdera till nästa år.
+
+Kålltorp:
+- *Starttid*
+	"Vi anser inte att vi ska synkronisera med SSF:s bestämmelser"
+- *Götadraget*
+	Götadraget är menat somm ett alternativ till distriktserien
+	Vi vill inte ha åldersgräns eftersom vi vill rikta oss mot nybörjare, snarare än unga nybörjare.
+	Justera datum?
 - **
-	
-- **
-	
-- **
-	
-- **
-	
-- **
-	
