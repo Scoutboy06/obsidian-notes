@@ -4,20 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "2ef779ba7b2166b9",
+        "id": "0e40bbc46a2f8322",
         "type": "tabs",
         "children": [
           {
-            "id": "bde565aecd1a5771",
+            "id": "136c0dcb67cc835b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Matte 4/TE22A Momentplanering Trigonometriska relationer och ekvationer Ma4 Ht24.pdf"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "d711e82fc19ff53c",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Matte 4/Uppg 1227.excalidraw.md"
+                "file": "Matte 4/Uppg 1233.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matte 4/Uppg 1227.excalidraw.md",
+                "file": "Matte 4/Uppg 1233.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matte 4/Uppg 1227.excalidraw.md",
+                "file": "Matte 4/Uppg 1233.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matte 4/Uppg 1227.excalidraw.md"
+                "file": "Matte 4/Uppg 1233.excalidraw.md"
               }
             }
           }
@@ -146,9 +159,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bde565aecd1a5771",
+  "active": "d711e82fc19ff53c",
   "lastOpenFiles": [
+    "Matte 4/TE22A Momentplanering Trigonometriska relationer och ekvationer Ma4 Ht24.pdf",
+    "Matte 4/Uppg 1233.excalidraw.md",
+    "Matte 4/Uppg 1231.excalidraw.md",
     "Matte 4/Bok/018.jpg",
+    "Matte 4/Bok/029.jpg",
+    "Matte 4/Bok/028.jpg",
     "Matte 4/Uppg 1227.excalidraw.md",
     "Fysik 2/Ex 1.6.excalidraw.md",
     "Fysik 2/Ex 1.7.excalidraw.md",
@@ -167,8 +185,6 @@
     "Matte 4/Bok/014.jpg",
     "Matte 4/Bok/013.jpg",
     "Matte 4/Bok/012.jpg",
-    "Matte 4/Bok/011.jpg",
-    "Matte 4/Bok/010.jpg",
     "Matte 4/Genomgång 2024-08-23.excalidraw.md",
     "Matte 4/Bok",
     "Matte 4/New folder",
@@ -185,8 +201,6 @@
     "Matte Spec/Vektorer.md",
     "Matte Spec/11.excalidraw.md",
     "Matte Spec/Uppg 1111.excalidraw.md",
-    "Matte Spec/Drawing 2024-08-21 20.06.26.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-21 20.05.08.excalidraw.md",
     "Untitled.canvas",
     "Matte Spec",
     "Matte 4",
