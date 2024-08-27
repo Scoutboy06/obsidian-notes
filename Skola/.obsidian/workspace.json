@@ -20,29 +20,17 @@
             }
           },
           {
-            "id": "2861fc77d2da5df3",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Matte 4/Facit/s.258; 1232-1255.jpg"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "7df4f000d4e8532b",
+            "id": "166ac939d255c4ed",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Matte 4/Uppg 1250.excalidraw.md"
+                "file": "Matte 4/Uppg 1251.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matte 4/Uppg 1250.excalidraw.md",
+                "file": "Matte 4/Uppg 1251.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matte 4/Uppg 1250.excalidraw.md",
+                "file": "Matte 4/Uppg 1251.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matte 4/Uppg 1250.excalidraw.md"
+                "file": "Matte 4/Uppg 1251.excalidraw.md"
               }
             }
           }
@@ -171,12 +159,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7df4f000d4e8532b",
+  "active": "166ac939d255c4ed",
   "lastOpenFiles": [
+    "Matte 4/TE22A Momentplanering Trigonometriska relationer och ekvationer Ma4 Ht24.pdf",
+    "Matte 4/Uppg 1251.excalidraw.md",
     "Matte 4/Facit/s.258; 1232-1255.jpg",
     "Matte 4/Uppg 1250.excalidraw.md",
     "Matte 4/Uppg ex.excalidraw.md",
-    "Matte 4/TE22A Momentplanering Trigonometriska relationer och ekvationer Ma4 Ht24.pdf",
     "Matte 4/Uppg 1247.excalidraw.md",
     "Matte 4/Uppg 1242.excalidraw.md",
     "Matte 4/Facit/s.259; 1256-1307.jpg",
@@ -213,7 +202,6 @@
     "Matte 4/Uppg 1108.excalidraw.md",
     "Matte 4/Uppg 1104.excalidraw.md",
     "Matte 4/Untitled.md",
-    "Matte 4/Genomgång 1.excalidraw.md",
     "Untitled.canvas",
     "Matte Spec",
     "Matte 4",
