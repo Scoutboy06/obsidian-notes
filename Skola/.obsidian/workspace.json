@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "4fff6a2c35c49507",
+            "id": "7df4f000d4e8532b",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Matte 4/Uppg 1242.excalidraw.md"
+                "file": "Matte 4/Uppg 1250.excalidraw.md"
               }
             }
           }
@@ -49,7 +49,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "alphabeticalReverse"
               }
             }
           },
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matte 4/Uppg 1242.excalidraw.md",
+                "file": "Matte 4/Uppg 1250.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matte 4/Uppg 1242.excalidraw.md",
+                "file": "Matte 4/Uppg 1250.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matte 4/Uppg 1242.excalidraw.md"
+                "file": "Matte 4/Uppg 1250.excalidraw.md"
               }
             }
           }
@@ -159,21 +159,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4fff6a2c35c49507",
+  "active": "7df4f000d4e8532b",
   "lastOpenFiles": [
     "Matte 4/TE22A Momentplanering Trigonometriska relationer och ekvationer Ma4 Ht24.pdf",
-    "Matte 4/Bok/022.jpg",
-    "Matte 4/Bok/021.jpg",
-    "Matte 4/Bok/020.jpg",
-    "Matte 4/Bok/019.jpg",
+    "Matte 4/Uppg 1250.excalidraw.md",
+    "Matte 4/Uppg 1247.excalidraw.md",
     "Matte 4/Uppg 1242.excalidraw.md",
+    "Matte 4/Facit/s.258; 1232-1255.jpg",
+    "Matte 4/Facit/s.259; 1256-1307.jpg",
+    "Matte 4/Uppg ex.excalidraw.md",
+    "Matte 4/Facit/s.268; 2182-2221b.jpg",
+    "Matte 4/Facit/s.267; 2150-2181.jpg",
+    "Matte 4/Facit/s.265; Blandade övningar 1B; 23-27.jpg",
+    "Matte 4/Facit/s.265; 2126c-2149.jpg",
+    "Matte 4/Facit/s.265; 2102-2126b.jpg",
+    "Matte 4/Facit/s.264; Blandade övningar 1B; 1-22.jpg",
+    "Matte 4/Facit/s.264; Blandade övningar 1A; 20-28.jpg",
+    "Matte 4/Facit/s.263; Diagnos 1; 3-14.jpg",
+    "Matte 4/Facit",
+    "Matte 4/New folder",
     "Matte 4/Uppg 1236.excalidraw.md",
-    "Matte 4/Bok/018.jpg",
     "Mötesanteckningar 2024-08-26.md",
     "Matte 4/Uppg 1233.excalidraw.md",
     "Matte 4/Uppg 1231.excalidraw.md",
-    "Matte 4/Bok/029.jpg",
-    "Matte 4/Bok/028.jpg",
     "Matte 4/Uppg 1227.excalidraw.md",
     "Fysik 2/Ex 1.6.excalidraw.md",
     "Fysik 2/Ex 1.7.excalidraw.md",
@@ -183,14 +191,9 @@
     "Excalidraw",
     "Matte 4/Uppg 1230.excalidraw.md",
     "Fysik 2/Bok",
-    "Matte 4/Bok/031.jpg",
     "Matte 4/Uppg 1215.excalidraw.md",
-    "Matte 4/Bok/017.jpg",
-    "Matte 4/Uppg ex.excalidraw.md",
-    "Matte 4/Bok/016.jpg",
     "Matte 4/Genomgång 2024-08-23.excalidraw.md",
     "Matte 4/Bok",
-    "Matte 4/New folder",
     "Matte 4/Uppg 1210.excalidraw.md",
     "Matte 4/Uppg 1208.excalidraw.md",
     "Matte 4/Uppg 1206.excalidraw.md",
@@ -199,8 +202,6 @@
     "Matte 4/Uppg 1104.excalidraw.md",
     "Matte 4/Untitled.md",
     "Matte 4/Genomgång 1.excalidraw.md",
-    "Matte Spec/Uppg 1101.excalidraw.md",
-    "Matte Spec/Vektorer.md",
     "Untitled.canvas",
     "Matte Spec",
     "Matte 4",
