@@ -4,14 +4,14 @@ Vi har fått in förslag på förändringar från två håll: Kålltorp och Nole
 
 Nolered:
 -  *Priser*
-	Det spelar ingen större roll vilken form av pris vi har
-	"Varför har vi ens priser?" har flera personer frågat.
-	Notera till nästa år att eventuellt ta bort priser helt och hållet.
-	SSF anger också att DGT 2010 är en av de rekommenderade klockorna.
+	* Det spelar ingen större roll vilken form av pris vi har
+	* "Varför har vi ens priser?" har flera personer frågat.
+	* Notera till nästa år att eventuellt ta bort priser helt och hållet.
+	* DGT 2010 är en av de rekommenderade klockorna enligt SSF.
 - *Starttid, 10 eller 11?*
-	Att börja klockan 11 som standard skulle äta upp en större del av dagen och är inte att göredra
+	Att börja klockan 11 som standard skulle äta upp en större del av dagen.
 - *Lottning: Berger eller Schweitzer*
-	Vi stryker Schweizer
+	Vi stryker Schweizerlottningen.
 	"Lottningförändringar eller antalet ronder kan komma att ändras beroende på antalet anmälda lag"
 - *Att samla flera hemmamatcher*
 	Om möjligt, försök att samla flera matcher på samma plats för att minska kostnaden för 
@@ -38,7 +38,6 @@ Kålltorp:
 - *Starttid*
 	"Vi anser inte att vi ska synkronisera med SSF:s bestämmelser"
 - *Götadraget*
-	Götadraget är menat somm ett alternativ till distriktserien
-	Vi vill inte ha åldersgräns eftersom vi vill rikta oss mot nybörjare, snarare än unga nybörjare.
-	Justera datum?
-- **
+	* Götadraget är menat somm ett alternativ till distriktserien
+	* Vi vill inte ha åldersgräns eftersom vi vill rikta oss mot nybörjare, snarare än unga nybörjare.
+	* Justera datum?
