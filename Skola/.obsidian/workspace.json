@@ -4,31 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "abaac013ee0d76cd",
+        "id": "14c4ce60d5bb21ab",
         "type": "tabs",
         "children": [
           {
-            "id": "c5e8ec0a09393c2e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Fysik 2/_Planering.pdf"
-              }
-            }
-          },
-          {
-            "id": "2d5958cfa8598dfa",
+            "id": "0707d7197f4a433e",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Fysik 2/Uppg 108.excalidraw.md"
+                "file": "Matte Spec/Uppg .excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fysik 2/Uppg 108.excalidraw.md",
+                "file": "Matte Spec/Uppg .excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fysik 2/Uppg 108.excalidraw.md",
+                "file": "Matte Spec/Uppg .excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fysik 2/Uppg 108.excalidraw.md"
+                "file": "Matte Spec/Uppg .excalidraw.md"
               }
             }
           }
@@ -157,12 +146,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2d5958cfa8598dfa",
+  "active": "0707d7197f4a433e",
   "lastOpenFiles": [
+    "Matte Spec/Uppg .excalidraw.md",
     "Pasted Image 20240828110433_858.jpg",
-    "Fysik 2/Bok/s.17.jpg",
     "Fysik 2/_Planering.pdf",
     "Fysik 2/Uppg 108.excalidraw.md",
+    "Fysik 2/Bok/s.17.jpg",
     "Fysik 2/Uppg 107.excalidraw.md",
     "Fysik 2/Uppg 110.excalidraw.md",
     "Fysik 2/Bok/Uppg 110.jpg",
@@ -184,7 +174,6 @@
     "Matte 4/Facit/s.267; 2150-2181.jpg",
     "Matte 4/Facit/s.265; Blandade övningar 1B; 23-27.jpg",
     "Matte 4/Facit/s.265; 2126c-2149.jpg",
-    "Matte 4/Facit/s.265; 2102-2126b.jpg",
     "Matte 4/Facit",
     "Matte 4/New folder",
     "Matte 4/Uppg 1236.excalidraw.md",
