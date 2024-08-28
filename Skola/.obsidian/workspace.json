@@ -16,8 +16,19 @@
                 "file": "Matte Spec/Lektion 2024-08-28.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "50ff4cb924b15c68",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Matte Spec/Inlämning 2.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matte Spec/Lektion 2024-08-28.excalidraw.md",
+                "file": "Matte Spec/Inlämning 2.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matte Spec/Lektion 2024-08-28.excalidraw.md",
+                "file": "Matte Spec/Inlämning 2.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matte Spec/Lektion 2024-08-28.excalidraw.md"
+                "file": "Matte Spec/Inlämning 2.excalidraw.md"
               }
             }
           }
@@ -146,10 +157,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0707d7197f4a433e",
+  "active": "50ff4cb924b15c68",
   "lastOpenFiles": [
-    "Mötesanteckningar 2024-08-26.md",
     "Matte Spec/Lektion 2024-08-28.excalidraw.md",
+    "Matte Spec/Inlämning 2.excalidraw.md",
+    "Mötesanteckningar 2024-08-26.md",
     "Pasted Image 20240828110433_858.jpg",
     "Fysik 2/_Planering.pdf",
     "Fysik 2/Uppg 108.excalidraw.md",
@@ -190,7 +202,6 @@
     "Matte 4/Uppg 1215.excalidraw.md",
     "Matte 4/Genomgång 2024-08-23.excalidraw.md",
     "Matte 4/Bok",
-    "Matte 4/Uppg 1210.excalidraw.md",
     "Untitled.canvas",
     "Matte Spec",
     "Matte 4",
