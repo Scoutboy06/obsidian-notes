@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "8cf763901403201b",
+            "id": "2d5958cfa8598dfa",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Fysik 2/Uppg 107.excalidraw.md"
+                "file": "Fysik 2/Uppg 108.excalidraw.md"
               }
             }
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fysik 2/Uppg 107.excalidraw.md",
+                "file": "Fysik 2/Uppg 108.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fysik 2/Uppg 107.excalidraw.md",
+                "file": "Fysik 2/Uppg 108.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fysik 2/Uppg 107.excalidraw.md"
+                "file": "Fysik 2/Uppg 108.excalidraw.md"
               }
             }
           }
@@ -157,9 +157,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8cf763901403201b",
+  "active": "2d5958cfa8598dfa",
   "lastOpenFiles": [
+    "Pasted Image 20240828110433_858.jpg",
+    "Fysik 2/Bok/s.17.jpg",
     "Fysik 2/_Planering.pdf",
+    "Fysik 2/Uppg 108.excalidraw.md",
     "Fysik 2/Uppg 107.excalidraw.md",
     "Fysik 2/Uppg 110.excalidraw.md",
     "Fysik 2/Bok/Uppg 110.jpg",
@@ -182,7 +185,6 @@
     "Matte 4/Facit/s.265; Blandade övningar 1B; 23-27.jpg",
     "Matte 4/Facit/s.265; 2126c-2149.jpg",
     "Matte 4/Facit/s.265; 2102-2126b.jpg",
-    "Matte 4/Facit/s.264; Blandade övningar 1B; 1-22.jpg",
     "Matte 4/Facit",
     "Matte 4/New folder",
     "Matte 4/Uppg 1236.excalidraw.md",
@@ -200,7 +202,6 @@
     "Matte 4/Genomgång 2024-08-23.excalidraw.md",
     "Matte 4/Bok",
     "Matte 4/Uppg 1210.excalidraw.md",
-    "Matte 4/Uppg 1208.excalidraw.md",
     "Untitled.canvas",
     "Matte Spec",
     "Matte 4",
