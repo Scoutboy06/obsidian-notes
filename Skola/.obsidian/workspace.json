@@ -16,8 +16,19 @@
                 "file": "Matte 4/Genomgång 2024-08-29.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "9fc5a89acf37a879",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Matte 4/Trigonometriska visa att övningar.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "02ec46ec98e7416a",
@@ -84,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matte 4/Genomgång 2024-08-29.excalidraw.md",
+                "file": "Matte 4/Trigonometriska visa att övningar.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matte 4/Genomgång 2024-08-29.excalidraw.md",
+                "file": "Matte 4/Trigonometriska visa att övningar.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matte 4/Genomgång 2024-08-29.excalidraw.md"
+                "file": "Matte 4/Trigonometriska visa att övningar.excalidraw.md"
               }
             }
           }
@@ -146,11 +156,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d526fea676876fee",
+  "active": "9fc5a89acf37a879",
   "lastOpenFiles": [
+    "Matte 4/Genomgång 2024-08-29.excalidraw.md",
+    "Matte 4/Trigonometriska visa att övningar.excalidraw.md",
     "Matte 4/Bok/022.jpg",
     "Matte 4/Uppg 1253.excalidraw.md",
-    "Matte 4/Genomgång 2024-08-29.excalidraw.md",
     "Matte Spec/Inlämning 2.excalidraw.md",
     "Matte Spec/Lektion 2024-08-28.excalidraw.md",
     "Mötesanteckningar 2024-08-26.md",
@@ -176,7 +187,6 @@
     "Matte 4/Facit/s.268; 2182-2221b.jpg",
     "Matte 4/Facit/s.267; 2150-2181.jpg",
     "Matte 4/Facit/s.265; Blandade övningar 1B; 23-27.jpg",
-    "Matte 4/Facit/s.265; 2126c-2149.jpg",
     "Matte 4/Facit",
     "Matte 4/New folder",
     "Matte 4/Uppg 1236.excalidraw.md",
