@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "14c4ce60d5bb21ab",
+        "id": "399d24a030d73b54",
         "type": "tabs",
         "children": [
           {
-            "id": "0707d7197f4a433e",
+            "id": "d526fea676876fee",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Matte Spec/Inlämning 2.excalidraw.md"
+                "file": "Matte 4/Genomgång 2024-08-29.excalidraw.md"
               }
             }
           }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matte Spec/Inlämning 2.excalidraw.md",
+                "file": "Matte 4/Genomgång 2024-08-29.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matte Spec/Inlämning 2.excalidraw.md",
+                "file": "Matte 4/Genomgång 2024-08-29.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matte Spec/Inlämning 2.excalidraw.md"
+                "file": "Matte 4/Genomgång 2024-08-29.excalidraw.md"
               }
             }
           }
@@ -146,10 +146,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0707d7197f4a433e",
+  "active": "d526fea676876fee",
   "lastOpenFiles": [
-    "Matte Spec/Lektion 2024-08-28.excalidraw.md",
+    "Matte 4/Bok/022.jpg",
+    "Matte 4/Uppg 1253.excalidraw.md",
+    "Matte 4/Genomgång 2024-08-29.excalidraw.md",
     "Matte Spec/Inlämning 2.excalidraw.md",
+    "Matte Spec/Lektion 2024-08-28.excalidraw.md",
     "Mötesanteckningar 2024-08-26.md",
     "Pasted Image 20240828110433_858.jpg",
     "Fysik 2/_Planering.pdf",
@@ -163,7 +166,6 @@
     "Fysik 2/Uppg 105.excalidraw.md",
     "Matte 4/TE22A Momentplanering Trigonometriska relationer och ekvationer Ma4 Ht24.pdf",
     "Matte 4/Facit/s.258; 1232-1255.jpg",
-    "Matte 4/Uppg 1253.excalidraw.md",
     "Matte 4/Facit/s.268; 2221c-2317.jpg",
     "Matte 4/Uppg 1251.excalidraw.md",
     "Matte 4/Uppg 1250.excalidraw.md",
@@ -188,8 +190,6 @@
     "Excalidraw",
     "Matte 4/Uppg 1230.excalidraw.md",
     "Fysik 2/Bok",
-    "Matte 4/Uppg 1215.excalidraw.md",
-    "Matte 4/Genomgång 2024-08-23.excalidraw.md",
     "Matte 4/Bok",
     "Untitled.canvas",
     "Matte Spec",
