@@ -8,11 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4364e8be0904c233",
+            "id": "41309c2609242575",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Matte 4/ooonejnejnej.excalidraw.md"
+              }
             }
           }
         ]
@@ -65,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "02ec46ec98e7416a",
@@ -81,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Matte 4/ooonejnejnej.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Matte 4/ooonejnejnej.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Matte 4/ooonejnejnej.excalidraw.md"
+              }
             }
           }
         ]
@@ -139,8 +146,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4364e8be0904c233",
+  "active": "41309c2609242575",
   "lastOpenFiles": [
+    "Matte 4/Genomgång 2024-08-23.excalidraw.md",
+    "Matte 4/ooonejnejnej.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "Religion/Lektion 2024-08-29.md",
     "Religion",
@@ -178,10 +187,8 @@
     "Matte 4/Uppg ex.excalidraw.md",
     "Matte 4/Uppg 1227.excalidraw.md",
     "Matte 4/Uppg 1215.excalidraw.md",
-    "Matte 4/Genomgång 2024-08-23.excalidraw.md",
     "Matte 4/Bok",
     "Fysik 2/Uppg 105.excalidraw.md",
-    "Fysik 2/Ex 1.7.excalidraw.md",
     "Fysik 2",
     "Excalidraw",
     "Untitled.canvas",
