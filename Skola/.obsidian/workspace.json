@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "2da8f5528ec5ea9c",
+    "id": "b3a7d22dc57d3477",
     "type": "split",
     "children": [
       {
-        "id": "4a1c71c867e78147",
+        "id": "67983248822b3bf8",
         "type": "tabs",
         "children": [
           {
-            "id": "47e1f69f1fedfee5",
+            "id": "4364e8be0904c233",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "df0632d422e02d61",
+    "id": "593091b150fcd251",
     "type": "split",
     "children": [
       {
-        "id": "d288210e97f96e0b",
+        "id": "b1a5213bf356733b",
         "type": "tabs",
         "children": [
           {
-            "id": "e5c8bbfc39cd8ba5",
+            "id": "a0a66fc7be8639f4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "333870e8486d06b9",
+            "id": "f05ee1a200c1af54",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "cee4e9265d21bf82",
+            "id": "029558e3082fcd3f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "0d1f185d08122ad0",
+    "id": "02ec46ec98e7416a",
     "type": "split",
     "children": [
       {
-        "id": "e949b28c031f2912",
+        "id": "079f2c79c67dfef6",
         "type": "tabs",
         "children": [
           {
-            "id": "3696be60bd292ab5",
+            "id": "32d22336e7bbf665",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "89f713c1c8177dd1",
+            "id": "504551636730912c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "99c317c21af2cdbe",
+            "id": "1683a521dccc9ff9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,13 +114,11 @@
             }
           },
           {
-            "id": "38940b7865c8c1be",
+            "id": "43506f9a1718881c",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -138,17 +130,63 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "47e1f69f1fedfee5",
+  "active": "4364e8be0904c233",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md"
+    "conflict-files-obsidian-git.md",
+    "Religion/Lektion 2024-08-29.md",
+    "Religion",
+    "Mötesanteckningar 2024-08-26.md",
+    "Matte Spec/Lektion 2024-08-28.excalidraw.md",
+    "Matte Spec/Inlämning 2.excalidraw.md",
+    "Matte 4/Uppg 1253.excalidraw.md",
+    "Matte 4/Uppg 1251.excalidraw.md",
+    "Matte 4/Uppg 1250.excalidraw.md",
+    "Matte 4/Uppg 1247.excalidraw.md",
+    "Matte 4/Uppg 1242.excalidraw.md",
+    "Matte 4/Uppg 1236.excalidraw.md",
+    "Matte 4/Uppg 1233.excalidraw.md",
+    "Matte 4/Uppg 1231.excalidraw.md",
+    "Matte 4/Trigonometriska visa att övningar.excalidraw.md",
+    "Matte 4/TE22A Momentplanering Trigonometriska relationer och ekvationer Ma4 Ht24.pdf",
+    "Matte 4/Genomgång 2024-08-29.excalidraw.md",
+    "Matte 4/Facit/s.268; 2221c-2317.jpg",
+    "Matte 4/Facit/s.268; 2182-2221b.jpg",
+    "Matte 4/Facit/s.267; 2150-2181.jpg",
+    "Matte 4/Facit/s.265; Blandade övningar 1B; 23-27.jpg",
+    "Matte 4/Facit/s.265; 2126c-2149.jpg",
+    "Matte 4/Facit/s.265; 2102-2126b.jpg",
+    "Matte 4/Facit/s.264; Blandade övningar 1B; 1-22.jpg",
+    "Matte 4/Facit/s.264; Blandade övningar 1A; 20-28.jpg",
+    "Matte 4/Facit/s.263; Diagnos 1; 3-14.jpg",
+    "Matte 4/Facit/s.263; Blandade övningar 1A; 1-19.jpg",
+    "Matte 4/Facit",
+    "Fysik 2/_Planering.pdf",
+    "Fysik 2/Uppg 110.excalidraw.md",
+    "Fysik 2/Uppg 108.excalidraw.md",
+    "Fysik 2/Uppg 107.excalidraw.md",
+    "Fysik 2/Uppg 106.excalidraw.md",
+    "Fysik 2/Lektionsexempel 1.excalidraw.md",
+    "Matte 4/Uppg ex.excalidraw.md",
+    "Matte 4/Uppg 1227.excalidraw.md",
+    "Matte 4/Uppg 1215.excalidraw.md",
+    "Matte 4/Genomgång 2024-08-23.excalidraw.md",
+    "Matte 4/Bok",
+    "Fysik 2/Uppg 105.excalidraw.md",
+    "Fysik 2/Ex 1.7.excalidraw.md",
+    "Fysik 2",
+    "Excalidraw",
+    "Untitled.canvas",
+    "Matte Spec",
+    "Matte 4",
+    "Matte 5"
   ]
 }
