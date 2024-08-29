@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "399d24a030d73b54",
+        "id": "f785284502d3de33",
         "type": "tabs",
         "children": [
           {
-            "id": "d526fea676876fee",
+            "id": "177d7df9b26bac7b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Matte 4/Genomgång 2024-08-29.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "9fc5a89acf37a879",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Matte 4/Trigonometriska visa att övningar.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matte 4/Trigonometriska visa att övningar.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matte 4/Trigonometriska visa att övningar.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Matte 4/Trigonometriska visa att övningar.excalidraw.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -156,7 +139,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9fc5a89acf37a879",
+  "active": "a0a66fc7be8639f4",
   "lastOpenFiles": [
     "Matte 4/Genomgång 2024-08-29.excalidraw.md",
     "Matte 4/Trigonometriska visa att övningar.excalidraw.md",
