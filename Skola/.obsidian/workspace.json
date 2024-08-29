@@ -13,22 +13,11 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Matte Spec/Lektion 2024-08-28.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "50ff4cb924b15c68",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
                 "file": "Matte Spec/Inlämning 2.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +146,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "50ff4cb924b15c68",
+  "active": "0707d7197f4a433e",
   "lastOpenFiles": [
     "Matte Spec/Lektion 2024-08-28.excalidraw.md",
     "Matte Spec/Inlämning 2.excalidraw.md",
