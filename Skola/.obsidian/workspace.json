@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a64f58563fab073e",
+        "id": "d489422ccdff4e57",
         "type": "tabs",
         "children": [
           {
-            "id": "60ac3ec71ae03f34",
+            "id": "f9ba90dc2b8a50d7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Svenska 3/Språkhistoria.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -38,7 +34,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabeticalReverse"
               }
             }
           },
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Svenska 3/Språkhistoria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Svenska 3/Språkhistoria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Svenska 3/Språkhistoria.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,23 +139,33 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e5c8bbfc39cd8ba5",
+  "active": "f9ba90dc2b8a50d7",
   "lastOpenFiles": [
-    "Svenska 3/_assets/runsten.png",
     "Svenska 3/Språkhistoria.md",
-    "Svenska 3/_assets/gallehushornen.png",
+    "Samhällskunskap/Maktdelning.md",
+    "Samhällskunskap/Valsystem och makt.md",
+    "Samhällskunskap",
+    "Matte 4/TE22A Momentplanering Trigonometriska relationer och ekvationer Ma4 Ht24.pdf",
+    "Matte 4/Uppg 1262.excalidraw.md",
+    "Matte 4/Uppg 1260.excalidraw.md",
+    "Matte 4/Uppg 1253.excalidraw.md",
+    "Fysik 2/_Planering.pdf",
+    "Fysik 2/Uppg 113.excalidraw.md",
+    "Fysik 2/Bok/025.jpg",
+    "Fysik 2/Bok/024.jpg",
+    "Fysik 2/Bok/041.jpg",
+    "Fysik 2/Bok/040.jpg",
+    "Fysik 2/Bok/039.jpg",
+    "Fysik 2/Bok/038.jpg",
+    "Fysik 2/Bok/037.jpg",
+    "Fysik 2/Bok/036.jpg",
+    "Fysik 2/Bok/035.jpg",
+    "Fysik 2/Bok/034.jpg",
+    "Fysik 2/Uppg 110.excalidraw.md",
+    "Fysik 2/Centripetalacceleration.excalidraw.md",
     "Svenska 3/_assets",
-    "Untitled",
-    "Svenska 3/_assets/språkträd.png",
     "Matte 4/ooonejnejnej.excalidraw.md",
     "Svenska 3",
-    "conflict-files-obsidian-git.md",
-    "Fysik 2/Bok/024.jpg",
-    "Fysik 2/Bok/023.jpg",
-    "Fysik 2/Bok/022.jpg",
-    "Fysik 2/Bok/021.jpg",
-    "Fysik 2/Bok/020.jpg",
-    "Fysik 2/Bok/019.jpg",
-    "Fysik 2/Bok/018.jpg"
+    "conflict-files-obsidian-git.md"
   ]
 }
