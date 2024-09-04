@@ -4,31 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "19f504562f1a84ff",
+        "id": "c402f6b4a14d05ce",
         "type": "tabs",
         "children": [
           {
-            "id": "3e6d7af4692e2a4a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Fysik 2/_Planering.pdf"
-              }
-            }
-          },
-          {
-            "id": "e2fce3a7ebc04b7c",
+            "id": "b8590517460660e7",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Fysik 2/Uppg 115.excalidraw.md"
+                "file": "Matte Spec/Inlämning 3.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fysik 2/Uppg 115.excalidraw.md",
+                "file": "Matte Spec/Inlämning 3.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fysik 2/Uppg 115.excalidraw.md",
+                "file": "Matte Spec/Inlämning 3.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fysik 2/Uppg 115.excalidraw.md"
+                "file": "Matte Spec/Inlämning 3.excalidraw.md"
               }
             }
           }
@@ -157,14 +146,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e2fce3a7ebc04b7c",
+  "active": "b8590517460660e7",
   "lastOpenFiles": [
+    "Matte Spec/Lektion 2024-09-04.excalidraw.md",
+    "Matte Spec/Lektion 2024-08-28.excalidraw.md",
+    "Matte Spec/Inlämning 3.excalidraw.md",
+    "Matte Spec/Inlämning 2.excalidraw.md",
+    "Matte Spec/Inlämning 2.excalidraw.png",
     "Fysik 2/_Planering.pdf",
     "Fysik 2/Uppg 115.excalidraw.md",
     "Fysik 2/Untitled.md",
     "Fysik 2/Uppg 113.excalidraw.md",
     "Fysik 2/Uppg 110.excalidraw.md",
-    "Matte Spec/Inlämning 2.excalidraw.md",
     "Matte 4/Uppg 1266.excalidraw.md",
     "English 7/TED Talk Summary.md",
     "English 7",
@@ -187,7 +180,6 @@
     "Fysik 2/Bok/037.jpg",
     "Fysik 2/Bok/036.jpg",
     "Fysik 2/Bok/035.jpg",
-    "Fysik 2/Bok/034.jpg",
     "Fysik 2/Centripetalacceleration.excalidraw.md",
     "Svenska 3/_assets",
     "Matte 4/ooonejnejnej.excalidraw.md",
