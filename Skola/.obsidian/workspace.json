@@ -4,26 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "d489422ccdff4e57",
+        "id": "19f504562f1a84ff",
         "type": "tabs",
         "children": [
           {
-            "id": "f9ba90dc2b8a50d7",
+            "id": "3e6d7af4692e2a4a",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Matte 4/TE22A Momentplanering Trigonometriska relationer och ekvationer Ma4 Ht24.pdf"
+                "file": "Fysik 2/_Planering.pdf"
               }
             }
           },
           {
-            "id": "79d92101c7bac099",
+            "id": "e2fce3a7ebc04b7c",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Matte 4/Uppg 1266.excalidraw.md"
+                "file": "Fysik 2/Uppg 115.excalidraw.md"
               }
             }
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matte 4/Uppg 1266.excalidraw.md",
+                "file": "Fysik 2/Uppg 115.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matte 4/Uppg 1266.excalidraw.md",
+                "file": "Fysik 2/Uppg 115.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matte 4/Uppg 1266.excalidraw.md"
+                "file": "Fysik 2/Uppg 115.excalidraw.md"
               }
             }
           }
@@ -157,11 +157,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "79d92101c7bac099",
+  "active": "e2fce3a7ebc04b7c",
   "lastOpenFiles": [
-    "Matte 4/Uppg 1265.excalidraw.md",
+    "Fysik 2/_Planering.pdf",
+    "Fysik 2/Uppg 115.excalidraw.md",
+    "Fysik 2/Untitled.md",
+    "Fysik 2/Uppg 113.excalidraw.md",
+    "Fysik 2/Uppg 110.excalidraw.md",
+    "Matte Spec/Inlämning 2.excalidraw.md",
     "Matte 4/Uppg 1266.excalidraw.md",
+    "English 7/TED Talk Summary.md",
+    "English 7",
     "Matte 4/TE22A Momentplanering Trigonometriska relationer och ekvationer Ma4 Ht24.pdf",
+    "Matte 4/Uppg 1265.excalidraw.md",
     "Matte 4/Uppg 1263.excalidraw.md",
     "Matte 4/Uppg 1262.excalidraw.md",
     "Svenska 3/Språkhistoria.md",
@@ -170,8 +178,6 @@
     "Samhällskunskap",
     "Matte 4/Uppg 1260.excalidraw.md",
     "Matte 4/Uppg 1253.excalidraw.md",
-    "Fysik 2/_Planering.pdf",
-    "Fysik 2/Uppg 113.excalidraw.md",
     "Fysik 2/Bok/025.jpg",
     "Fysik 2/Bok/024.jpg",
     "Fysik 2/Bok/041.jpg",
@@ -182,7 +188,6 @@
     "Fysik 2/Bok/036.jpg",
     "Fysik 2/Bok/035.jpg",
     "Fysik 2/Bok/034.jpg",
-    "Fysik 2/Uppg 110.excalidraw.md",
     "Fysik 2/Centripetalacceleration.excalidraw.md",
     "Svenska 3/_assets",
     "Matte 4/ooonejnejnej.excalidraw.md",
