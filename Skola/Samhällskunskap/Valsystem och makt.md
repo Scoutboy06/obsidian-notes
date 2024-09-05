@@ -37,7 +37,7 @@ Nackdel:
 - Större polarisering mellan partierna 
 
 # En kombination
-- En del länder prektiserar en blandning av dessa
+- En del länder praktiserar en blandning av dessa
 - Exempelvis Tyskland:
 	- Hälften av platserna i parlamentet -> proportionsval
 	- Hälften av platserna i parlamentet -> majoritetsval
@@ -50,23 +50,9 @@ Nackdel:
 # Diktatur
 - Inga fria val som väljer regering/ingen rösträtt
 	- Auktoritära regimer, inga "fria" val (hot etc.)
+	- Diktator eller en liten grupp regenter som ofta styr med hjälp av militären
 - Inga partier, eller begränsningar av opposition
+- Olika typer av diktaturer:
+	- 
 - Snabbare beslut
 - Präglas ofta av korruption
-
-# Polen
-[Polen – Inrikespolitik och författning | Utrikespolitiska institutet (ui.se)](https://www.ui.se/landguiden/lander-och-omraden/europa/polen/inrikespolitik-och-forfattning/)
-
-*Valsystem:* republik med parlamentariskt styrelseskick
-- Presidenten har begränsad makt men kan lägga in veto mot lagförslag
-
- Partierna drar åt vitt skilda håll:
-- President **Andrzej Duda** och premiärminister **Donald Tusk** i olika läger
-- Särskilt olika i synen på landets EU-medlemsskap
-
-- *Valdeltagande:* **74%** i valet 2023 (**84,2%** i Sverige 2022), högsta sedan kommunismens fall
-- *Presidentval:* Sker var 5:e år, kan sitta högst två mandatperioder.
-- *Åldersgräns:* 18 år
-- *5% spärr:* Undantag för partier som representerar minoritetsgrupper
-	- *Partiallianser:* Gräns på **8%**
-- *Fem partier i Sejmen*

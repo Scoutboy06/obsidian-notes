@@ -31,8 +31,9 @@
 - Är ofta statschef och regeringschef
 - Presidenten utser ministrar
 - Presidenten kan inte avsättas av parlamentet (maktdelning)
-
-(Polen har semi-presidentialism? både president och premiärminister)
+![|500](https://lh7-qw.googleusercontent.com/slidesz/AGV_vUeYhj1aWdlBxG-CLud-2wvA43v_G7jPNv9d6GY2hee5xMO84VRRM7WfXJyRXhFBIgJDZI6RpEFqYsV__FcvJ-6fPmFdlouSdpgoUN4bplnSzQIZwGUcc_FskG6p0p-_-LMsLQ4p68INvMisVo1Gyv4AszyCmIA=s2048?key=ftykp3pLHitD8iMtsj0VMA)
+### Semi-presidentiellt styre
+- Samma som presidentstyre, men regeringen är ansvaring inför lagstiftande församling.
 
 ## Parlamentariska monarkier
 - **Monark** (självstående)
@@ -50,3 +51,4 @@ Exempelvis: Sverige, Norge, Danmark, Storbritannien
 
 Irland har ett parlamentariskt styre med **folkvald** president.
 Tyskland har ett parlamentariskt styre med **indirekt vald** president.
+

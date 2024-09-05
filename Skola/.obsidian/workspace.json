@@ -4,20 +4,68 @@
     "type": "split",
     "children": [
       {
-        "id": "c402f6b4a14d05ce",
+        "id": "067475b185838dc7",
         "type": "tabs",
+        "dimension": 49.396782841823054,
         "children": [
           {
-            "id": "b8590517460660e7",
+            "id": "d082ccecaeb99d03",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Matte Spec/Inlämning 3.excalidraw.md"
+                "file": "Samhällskunskap/Polen.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ]
+      },
+      {
+        "id": "dd052b2ab31ceab2",
+        "type": "tabs",
+        "dimension": 50.60321715817694,
+        "children": [
+          {
+            "id": "8a50bca1d5725b2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Samhällskunskap/Lagstiftning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bdd33742bfa3fd20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Samhällskunskap/Maktdelningsprincipen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df4b78a91ca1dcdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Samhällskunskap/Valsystem och makt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -67,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 246
   },
   "right": {
     "id": "0d1f185d08122ad0",
@@ -84,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matte Spec/Inlämning 3.excalidraw.md",
+                "file": "Samhällskunskap/Polen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matte Spec/Inlämning 3.excalidraw.md",
+                "file": "Samhällskunskap/Polen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matte Spec/Inlämning 3.excalidraw.md"
+                "file": "Samhällskunskap/Polen.md"
               }
             }
           }
@@ -146,11 +193,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b8590517460660e7",
+  "active": "d082ccecaeb99d03",
   "lastOpenFiles": [
+    "Samhällskunskap/Valsystem och makt.md",
+    "Samhällskunskap/Lagstiftning.md",
+    "Samhällskunskap/Maktdelningsprincipen.md",
+    "Samhällskunskap/Polen.md",
+    "Samhällskunskap/_assets",
+    "Samhällskunskap/_assets/Pasted image 20240905124847.png",
+    "Samhällskunskap/_assets/Pasted image 20240905124320.png",
+    "Samhällskunskap/Maktdelning.md",
+    "123.md",
+    "Matte 4/TE22A Momentplanering Trigonometriska relationer och ekvationer Ma4 Ht24.pdf",
+    "Matte 4/Uppg 1434.excalidraw.md",
+    "Matte 4/Uppg 1420.excalidraw.md",
+    "Matte 4/Bok/018.jpg",
+    "Matte 4/Uppg 1419.excalidraw.md",
+    "Matte 4/Uppg 1409.excalidraw.md",
+    "Matte 4/Bok/031.jpg",
+    "Matte 4/Uppg 1266.excalidraw.md",
+    "Matte Spec/Inlämning 3.excalidraw.md",
     "Matte Spec/Lektion 2024-09-04.excalidraw.md",
     "Matte Spec/Lektion 2024-08-28.excalidraw.md",
-    "Matte Spec/Inlämning 3.excalidraw.md",
     "Matte Spec/Inlämning 2.excalidraw.md",
     "Matte Spec/Inlämning 2.excalidraw.png",
     "Fysik 2/_Planering.pdf",
@@ -158,16 +222,12 @@
     "Fysik 2/Untitled.md",
     "Fysik 2/Uppg 113.excalidraw.md",
     "Fysik 2/Uppg 110.excalidraw.md",
-    "Matte 4/Uppg 1266.excalidraw.md",
     "English 7/TED Talk Summary.md",
     "English 7",
-    "Matte 4/TE22A Momentplanering Trigonometriska relationer och ekvationer Ma4 Ht24.pdf",
     "Matte 4/Uppg 1265.excalidraw.md",
     "Matte 4/Uppg 1263.excalidraw.md",
     "Matte 4/Uppg 1262.excalidraw.md",
     "Svenska 3/Språkhistoria.md",
-    "Samhällskunskap/Maktdelning.md",
-    "Samhällskunskap/Valsystem och makt.md",
     "Samhällskunskap",
     "Matte 4/Uppg 1260.excalidraw.md",
     "Matte 4/Uppg 1253.excalidraw.md",
@@ -176,14 +236,7 @@
     "Fysik 2/Bok/041.jpg",
     "Fysik 2/Bok/040.jpg",
     "Fysik 2/Bok/039.jpg",
-    "Fysik 2/Bok/038.jpg",
-    "Fysik 2/Bok/037.jpg",
-    "Fysik 2/Bok/036.jpg",
-    "Fysik 2/Bok/035.jpg",
-    "Fysik 2/Centripetalacceleration.excalidraw.md",
     "Svenska 3/_assets",
-    "Matte 4/ooonejnejnej.excalidraw.md",
-    "Svenska 3",
-    "conflict-files-obsidian-git.md"
+    "Svenska 3"
   ]
 }
