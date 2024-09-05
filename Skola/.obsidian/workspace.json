@@ -4,68 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "067475b185838dc7",
+        "id": "5d669984cef8207d",
         "type": "tabs",
-        "dimension": 49.396782841823054,
         "children": [
           {
-            "id": "d082ccecaeb99d03",
+            "id": "eb64df8e6d8812ce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Samhällskunskap/Polen.md",
-                "mode": "source",
-                "source": false
+                "file": "Matte 4/Övningsprov kap 1.excalidraw.md"
               }
             }
           }
         ]
-      },
-      {
-        "id": "dd052b2ab31ceab2",
-        "type": "tabs",
-        "dimension": 50.60321715817694,
-        "children": [
-          {
-            "id": "8a50bca1d5725b2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Samhällskunskap/Lagstiftning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bdd33742bfa3fd20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Samhällskunskap/Maktdelningsprincipen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df4b78a91ca1dcdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Samhällskunskap/Valsystem och makt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2,
-        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -115,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246
+    "width": 246,
+    "collapsed": true
   },
   "right": {
     "id": "0d1f185d08122ad0",
@@ -131,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Samhällskunskap/Polen.md",
+                "file": "Matte 4/Övningsprov kap 1.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Samhällskunskap/Polen.md",
+                "file": "Matte 4/Övningsprov kap 1.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Samhällskunskap/Polen.md"
+                "file": "Matte 4/Övningsprov kap 1.excalidraw.md"
               }
             }
           }
@@ -193,18 +146,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d082ccecaeb99d03",
+  "active": "eb64df8e6d8812ce",
   "lastOpenFiles": [
+    "Matte 4/Övningsprov kap 1.excalidraw.md",
+    "Matte 4/TE22A Momentplanering Trigonometriska relationer och ekvationer Ma4 Ht24.pdf",
     "Samhällskunskap/Valsystem och makt.md",
-    "Samhällskunskap/Lagstiftning.md",
     "Samhällskunskap/Maktdelningsprincipen.md",
+    "Samhällskunskap/Lagstiftning.md",
     "Samhällskunskap/Polen.md",
     "Samhällskunskap/_assets",
     "Samhällskunskap/_assets/Pasted image 20240905124847.png",
     "Samhällskunskap/_assets/Pasted image 20240905124320.png",
     "Samhällskunskap/Maktdelning.md",
     "123.md",
-    "Matte 4/TE22A Momentplanering Trigonometriska relationer och ekvationer Ma4 Ht24.pdf",
     "Matte 4/Uppg 1434.excalidraw.md",
     "Matte 4/Uppg 1420.excalidraw.md",
     "Matte 4/Bok/018.jpg",
@@ -230,7 +184,6 @@
     "Svenska 3/Språkhistoria.md",
     "Samhällskunskap",
     "Matte 4/Uppg 1260.excalidraw.md",
-    "Matte 4/Uppg 1253.excalidraw.md",
     "Fysik 2/Bok/025.jpg",
     "Fysik 2/Bok/024.jpg",
     "Fysik 2/Bok/041.jpg",
