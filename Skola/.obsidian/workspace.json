@@ -4,20 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "5d669984cef8207d",
+        "id": "c824c3318bd79104",
         "type": "tabs",
         "children": [
           {
-            "id": "eb64df8e6d8812ce",
+            "id": "90493ef4dff99560",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Fysik 2/_Planering.pdf"
+              }
+            }
+          },
+          {
+            "id": "905e9487c1e8fb36",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Matte 4/Övningsprov kap 1.excalidraw.md"
+                "file": "Fysik 2/Uppg 121.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matte 4/Övningsprov kap 1.excalidraw.md",
+                "file": "Fysik 2/Uppg 121.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matte 4/Övningsprov kap 1.excalidraw.md",
+                "file": "Fysik 2/Uppg 121.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matte 4/Övningsprov kap 1.excalidraw.md"
+                "file": "Fysik 2/Uppg 121.excalidraw.md"
               }
             }
           }
@@ -146,8 +157,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eb64df8e6d8812ce",
+  "active": "905e9487c1e8fb36",
   "lastOpenFiles": [
+    "Fysik 2/Uppg 120.excalidraw.md",
+    "Fysik 2/Uppg 121.excalidraw.md",
+    "Fysik 2/_Planering.pdf",
+    "Fysik 2/Uppg 119.excalidraw.md",
+    "Fysik 2/Bok/025.jpg",
+    "Fysik 2/Uppg 115.excalidraw.md",
     "Matte 4/Övningsprov kap 1.excalidraw.md",
     "Matte 4/TE22A Momentplanering Trigonometriska relationer och ekvationer Ma4 Ht24.pdf",
     "Samhällskunskap/Valsystem och makt.md",
@@ -171,8 +188,6 @@
     "Matte Spec/Lektion 2024-08-28.excalidraw.md",
     "Matte Spec/Inlämning 2.excalidraw.md",
     "Matte Spec/Inlämning 2.excalidraw.png",
-    "Fysik 2/_Planering.pdf",
-    "Fysik 2/Uppg 115.excalidraw.md",
     "Fysik 2/Untitled.md",
     "Fysik 2/Uppg 113.excalidraw.md",
     "Fysik 2/Uppg 110.excalidraw.md",
@@ -180,11 +195,7 @@
     "English 7",
     "Matte 4/Uppg 1265.excalidraw.md",
     "Matte 4/Uppg 1263.excalidraw.md",
-    "Matte 4/Uppg 1262.excalidraw.md",
-    "Svenska 3/Språkhistoria.md",
     "Samhällskunskap",
-    "Matte 4/Uppg 1260.excalidraw.md",
-    "Fysik 2/Bok/025.jpg",
     "Fysik 2/Bok/024.jpg",
     "Fysik 2/Bok/041.jpg",
     "Fysik 2/Bok/040.jpg",
