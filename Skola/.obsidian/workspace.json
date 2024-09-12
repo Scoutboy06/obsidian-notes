@@ -4,31 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c824c3318bd79104",
+        "id": "e6702d4c66e421ce",
         "type": "tabs",
         "children": [
           {
-            "id": "90493ef4dff99560",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Fysik 2/_Planering.pdf"
-              }
-            }
-          },
-          {
-            "id": "905e9487c1e8fb36",
+            "id": "531bf52acdc4b60e",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Fysik 2/Uppg 121.excalidraw.md"
+                "file": "Matte 4/Uppg 2173.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fysik 2/Uppg 121.excalidraw.md",
+                "file": "Matte 4/Uppg 2173.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fysik 2/Uppg 121.excalidraw.md",
+                "file": "Matte 4/Uppg 2173.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fysik 2/Uppg 121.excalidraw.md"
+                "file": "Matte 4/Uppg 2173.excalidraw.md"
               }
             }
           }
@@ -157,49 +146,49 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "905e9487c1e8fb36",
+  "active": "531bf52acdc4b60e",
   "lastOpenFiles": [
-    "Fysik 2/Uppg 120.excalidraw.md",
-    "Fysik 2/Uppg 121.excalidraw.md",
+    "Matte 4/Uppg 2173.excalidraw.md",
+    "Matte 4/Uppg 2166.excalidraw.md",
+    "Matte 4/Uppg 2139.excalidraw.md",
+    "Matte 4/Uppg 2113.excalidraw.md",
+    "Matte 4/Bok/085.jpg",
+    "Matte 4/Bok/084.jpg",
+    "Matte 4/Bok/083.jpg",
+    "Matte 4/Bok/082.jpg",
+    "Matte 4/Bok/081.jpg",
+    "Matte 4/Bok/080.jpg",
+    "Matte 4/Bok/079.jpg",
+    "Matte 4/Bok/078.jpg",
+    "Matte 4/Bok/077.jpg",
+    "Matte 4/Bok/076.jpg",
+    "Matte 4/ooonejnejnej.excalidraw.md",
+    "Matte 4/Bok/Uppg .excalidraw.md",
+    "Matte 4/TE22A Momentplanering Trigonometriska relationer och ekvationer Ma4 Ht24.pdf",
+    "Matte Spec/Inlämning 4.excalidraw.md",
+    "Matte Spec/Inlämning 3.excalidraw.md",
     "Fysik 2/_Planering.pdf",
+    "Fysik 2/Uppg 122.excalidraw.md",
+    "Fysik 2/Uppg 121.excalidraw.md",
+    "Samhällskunskap/Polen.md",
+    "Fysik 2/Uppg 120.excalidraw.md",
     "Fysik 2/Uppg 119.excalidraw.md",
-    "Fysik 2/Bok/025.jpg",
     "Fysik 2/Uppg 115.excalidraw.md",
     "Matte 4/Övningsprov kap 1.excalidraw.md",
-    "Matte 4/TE22A Momentplanering Trigonometriska relationer och ekvationer Ma4 Ht24.pdf",
     "Samhällskunskap/Valsystem och makt.md",
     "Samhällskunskap/Maktdelningsprincipen.md",
     "Samhällskunskap/Lagstiftning.md",
-    "Samhällskunskap/Polen.md",
     "Samhällskunskap/_assets",
-    "Samhällskunskap/_assets/Pasted image 20240905124847.png",
-    "Samhällskunskap/_assets/Pasted image 20240905124320.png",
     "Samhällskunskap/Maktdelning.md",
     "123.md",
     "Matte 4/Uppg 1434.excalidraw.md",
     "Matte 4/Uppg 1420.excalidraw.md",
-    "Matte 4/Bok/018.jpg",
     "Matte 4/Uppg 1419.excalidraw.md",
     "Matte 4/Uppg 1409.excalidraw.md",
-    "Matte 4/Bok/031.jpg",
     "Matte 4/Uppg 1266.excalidraw.md",
-    "Matte Spec/Inlämning 3.excalidraw.md",
     "Matte Spec/Lektion 2024-09-04.excalidraw.md",
-    "Matte Spec/Lektion 2024-08-28.excalidraw.md",
-    "Matte Spec/Inlämning 2.excalidraw.md",
-    "Matte Spec/Inlämning 2.excalidraw.png",
-    "Fysik 2/Untitled.md",
-    "Fysik 2/Uppg 113.excalidraw.md",
-    "Fysik 2/Uppg 110.excalidraw.md",
-    "English 7/TED Talk Summary.md",
     "English 7",
-    "Matte 4/Uppg 1265.excalidraw.md",
-    "Matte 4/Uppg 1263.excalidraw.md",
     "Samhällskunskap",
-    "Fysik 2/Bok/024.jpg",
-    "Fysik 2/Bok/041.jpg",
-    "Fysik 2/Bok/040.jpg",
-    "Fysik 2/Bok/039.jpg",
     "Svenska 3/_assets",
     "Svenska 3"
   ]
