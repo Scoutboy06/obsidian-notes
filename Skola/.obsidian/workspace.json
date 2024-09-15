@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f547bd3160e16ee3",
+        "id": "6f15ea6e574409de",
         "type": "tabs",
         "children": [
           {
-            "id": "7fb684f7459aded8",
+            "id": "071912bbb27ba18c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fysik 2/Att göra.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d0cad5210ecccea",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Fysik 2/Uppg 124.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fysik 2/Uppg 124.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fysik 2/Uppg 124.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Fysik 2/Uppg 124.excalidraw.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,9 +140,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8d0cad5210ecccea",
+  "active": "071912bbb27ba18c",
   "lastOpenFiles": [
     "Fysik 2/Att göra.md",
+    "Fysik 2/Uppg 128.excalidraw.md",
+    "Fysik 2/Uppg 127.excalidraw.md",
+    "Fysik 2/Uppg 126.excalidraw.md",
+    "Fysik 2/Uppg 125.excalidraw.md",
     "Fysik 2/Uppg 124.excalidraw.md",
     "Fysik 2/Uppg 122.excalidraw.md",
     "Fysik 2/_Planering.pdf",
@@ -196,10 +181,6 @@
     "Samhällskunskap/Lagstiftning.md",
     "Samhällskunskap/_assets",
     "Samhällskunskap/Maktdelning.md",
-    "123.md",
-    "Matte 4/Uppg 1434.excalidraw.md",
-    "Matte 4/Uppg 1420.excalidraw.md",
-    "Matte 4/Uppg 1419.excalidraw.md",
     "English 7",
     "Samhällskunskap",
     "Svenska 3/_assets",
