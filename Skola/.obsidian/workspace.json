@@ -4,15 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "6f15ea6e574409de",
+        "id": "016357a5e20aa8e6",
         "type": "tabs",
         "children": [
           {
-            "id": "071912bbb27ba18c",
+            "id": "74b7f90736feb6d3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Matte 4/Uppg 2182.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "223a6661889373c0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Matte 4/Uppg 2174.excalidraw.md"
+              }
             }
           }
         ]
@@ -65,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246,
-    "collapsed": true
+    "width": 246
   },
   "right": {
     "id": "0d1f185d08122ad0",
@@ -82,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Matte 4/Uppg 2182.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Matte 4/Uppg 2182.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Matte 4/Uppg 2182.md"
+              }
             }
           }
         ]
@@ -140,18 +157,32 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "071912bbb27ba18c",
+  "active": "74b7f90736feb6d3",
   "lastOpenFiles": [
-    "Fysik 2/Att göra.md",
+    "Ink/Writing/2024.9.17 - 12.07pm.writing",
+    "Ink/Writing",
+    "Ink",
+    "Matte 4/assets/Pasted image 20240917120544.png",
+    "Matte 4/Uppg 2174.excalidraw.md",
+    "Matte 4/Uppg 2182.md",
+    "Matte 4/assets",
+    "Matte 4/Att göra.md",
+    "Matte 4/Uppg 2233.excalidraw.md",
+    "Matte 4/Genomgång 2024-09-17.excalidraw.md",
+    "Matte 4/Genomgång 2024-09-16.excalidraw.md",
+    "Matte 4/Uppg 2173.excalidraw.md",
+    "sdasdf.md",
+    "Matte 4/TE22A Momentplanering Trigonometriska funktioner Ht24.pdf",
+    "Matte 4/a.md",
     "Fysik 2/Uppg 128.excalidraw.md",
+    "Fysik 2/Att göra.md",
+    "Fysik 2/Uppg 124.excalidraw.md",
     "Fysik 2/Uppg 127.excalidraw.md",
     "Fysik 2/Uppg 126.excalidraw.md",
     "Fysik 2/Uppg 125.excalidraw.md",
-    "Fysik 2/Uppg 124.excalidraw.md",
     "Fysik 2/Uppg 122.excalidraw.md",
     "Fysik 2/_Planering.pdf",
     "Svenska 3/Språkhistoria.md",
-    "Matte 4/Uppg 2173.excalidraw.md",
     "Matte 4/TE22A Momentplanering Trigonometriska relationer och ekvationer Ma4 Ht24.pdf",
     "Matte 4/Uppg 2166.excalidraw.md",
     "Matte 4/Uppg 2139.excalidraw.md",
@@ -165,25 +196,14 @@
     "Matte 4/Bok/079.jpg",
     "Matte 4/Bok/078.jpg",
     "Matte 4/Bok/077.jpg",
-    "Matte 4/Bok/076.jpg",
     "Matte 4/ooonejnejnej.excalidraw.md",
     "Matte 4/Bok/Uppg .excalidraw.md",
     "Matte Spec/Inlämning 4.excalidraw.md",
     "Matte Spec/Inlämning 3.excalidraw.md",
     "Fysik 2/Uppg 121.excalidraw.md",
-    "Samhällskunskap/Polen.md",
-    "Fysik 2/Uppg 120.excalidraw.md",
-    "Fysik 2/Uppg 119.excalidraw.md",
-    "Fysik 2/Uppg 115.excalidraw.md",
-    "Matte 4/Övningsprov kap 1.excalidraw.md",
-    "Samhällskunskap/Valsystem och makt.md",
-    "Samhällskunskap/Maktdelningsprincipen.md",
-    "Samhällskunskap/Lagstiftning.md",
     "Samhällskunskap/_assets",
-    "Samhällskunskap/Maktdelning.md",
     "English 7",
     "Samhällskunskap",
-    "Svenska 3/_assets",
-    "Svenska 3"
+    "Svenska 3/_assets"
   ]
 }
