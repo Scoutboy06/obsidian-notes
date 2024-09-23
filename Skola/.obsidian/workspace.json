@@ -11,8 +11,22 @@
             "id": "8916cf14345f71a6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Matte 4/Att göra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd1f004a2078a100",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Matte 4/Uppg 2337.excalidraw.md"
+              }
             }
           }
         ]
@@ -65,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246
+    "width": 246,
+    "collapsed": true
   },
   "right": {
     "id": "0d1f185d08122ad0",
@@ -81,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Matte 4/Att göra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Matte 4/Att göra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Matte 4/Att göra.md"
+              }
             }
           }
         ]
@@ -141,15 +160,19 @@
   },
   "active": "8916cf14345f71a6",
   "lastOpenFiles": [
+    "Matte 4/Uppg 2337.excalidraw.md",
+    "Matte 4/Att göra.md",
+    "Matte 4/Uppg 2331.excalidraw.md",
+    "Matte 4/Uppg 2327.excalidraw.md",
+    "Notes.md",
+    "Matte 4/Uppg 2320.excalidraw.md",
+    "Matte 4/Uppg 2319.excalidraw.md",
     "Fysik 2/Att göra.md",
     "Fysik 2/Uppg 134.excalidraw.md",
     "Fysik 2/Uppg 131.excalidraw.md",
     "Fysik 2/Uppg 128.excalidraw.md",
     "Fysik 2/Uppg 122.excalidraw.md",
     "Matte 4/Facit/s.268; 2182-2221b.jpg",
-    "Notes.md",
-    "Matte 4/Att göra.md",
-    "Matte 4/Uppg 2319.excalidraw.md",
     "Matte 4/Uppg 2230.excalidraw.md",
     "Matte 4/Uppg 2220.excalidraw.md",
     "Matte 4/Uppg 2135.excalidraw.png",
@@ -173,12 +196,8 @@
     "Matte 4/a.md",
     "Fysik 2/Uppg 124.excalidraw.md",
     "Fysik 2/Uppg 127.excalidraw.md",
-    "Fysik 2/Uppg 126.excalidraw.md",
-    "Fysik 2/Uppg 125.excalidraw.md",
     "Fysik 2/_Planering.pdf",
-    "Svenska 3/Språkhistoria.md",
     "Matte 4/TE22A Momentplanering Trigonometriska relationer och ekvationer Ma4 Ht24.pdf",
-    "Matte 4/Uppg 2166.excalidraw.md",
     "Matte 4/Bok/085.jpg",
     "Matte 4/Bok/084.jpg",
     "Matte 4/Bok/083.jpg",
