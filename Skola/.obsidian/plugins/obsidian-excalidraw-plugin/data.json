@@ -42323,7 +42323,9 @@
   "latexBoilerplate": "\\color{blue}",
   "taskboneEnabled": false,
   "taskboneAPIkey": "",
-  "pinnedScripts": [],
+  "pinnedScripts": [
+    "Excalidraw/Scripts/Downloaded/Boolean Operations.md"
+  ],
   "customPens": [
     {
       "type": "default",
