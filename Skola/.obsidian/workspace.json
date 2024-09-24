@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ad43eca8f27b5316",
+        "id": "1a5dc48ebf3de93d",
         "type": "tabs",
         "children": [
           {
-            "id": "8916cf14345f71a6",
+            "id": "425ce50c65f840e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,16 +16,6 @@
                 "file": "Matte 4/Att göra.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "fd1f004a2078a100",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Matte 4/Uppg 2337.excalidraw.md"
               }
             }
           }
@@ -158,10 +148,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8916cf14345f71a6",
+  "active": "425ce50c65f840e9",
   "lastOpenFiles": [
-    "Matte 4/Uppg 2337.excalidraw.md",
+    "Matte 4/Uppg 2416.excalidraw.md",
     "Matte 4/Att göra.md",
+    "Matte 4/Uppg 2414.excalidraw.md",
+    "Matte 4/Uppg 2411.excalidraw.md",
+    "Matte 4/Uppg 2337.excalidraw.md",
+    "Samhällskunskap/Chad.md",
+    "Matte Spec/Inlämning 4.excalidraw.md",
+    "Matte Spec/4 Uppgifter linjär algebra skalärprodukt egenskaper och satser.pdf",
     "Matte 4/Uppg 2331.excalidraw.md",
     "Matte 4/Uppg 2327.excalidraw.md",
     "Notes.md",
@@ -190,12 +186,7 @@
     "Ink",
     "Matte 4/assets",
     "Matte 4/Genomgång 2024-09-17.excalidraw.md",
-    "Matte 4/Genomgång 2024-09-16.excalidraw.md",
-    "Matte 4/Uppg 2173.excalidraw.md",
     "Matte 4/TE22A Momentplanering Trigonometriska funktioner Ht24.pdf",
-    "Matte 4/a.md",
-    "Fysik 2/Uppg 124.excalidraw.md",
-    "Fysik 2/Uppg 127.excalidraw.md",
     "Fysik 2/_Planering.pdf",
     "Matte 4/TE22A Momentplanering Trigonometriska relationer och ekvationer Ma4 Ht24.pdf",
     "Matte 4/Bok/085.jpg",
@@ -204,7 +195,6 @@
     "Matte 4/Bok/082.jpg",
     "Matte 4/Bok/081.jpg",
     "Matte 4/Bok/080.jpg",
-    "Samhällskunskap/_assets",
-    "English 7"
+    "Samhällskunskap/_assets"
   ]
 }
