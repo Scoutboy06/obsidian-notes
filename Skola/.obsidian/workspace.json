@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "639aec894c86b7cb",
+        "id": "7e0ca9754b76331d",
         "type": "tabs",
         "children": [
           {
-            "id": "dc751d27604c3395",
+            "id": "17d6389a2c539aed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matte 4/Att göra.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a6c441986bb57e9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Matte 4/Uppg 2417.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matte 4/Uppg 2417.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matte 4/Uppg 2417.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Matte 4/Uppg 2417.excalidraw.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,12 +140,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4a6c441986bb57e9",
+  "active": "17d6389a2c539aed",
   "lastOpenFiles": [
-    "Fysik 2/Att göra.md",
-    "Matte 4/Uppg 2417.excalidraw.md",
-    "Fysik 2/_Planering.pdf",
+    "Matte Spec/Plan.excalidraw.md",
+    "Matte Spec/Inlämning 5.excalidraw.md",
+    "Matte Spec/Kryssprodukt.excalidraw.md",
+    "Matte Spec/Inlämning 4.excalidraw.md",
     "Matte 4/Att göra.md",
+    "Matte 4/Uppg 2417.excalidraw.md",
+    "Fysik 2/Att göra.md",
+    "Fysik 2/_Planering.pdf",
     "Matte 4/Uppg 2416.excalidraw.md",
     "Samhällskunskap/Chad.md",
     "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
@@ -175,7 +160,6 @@
     "Matte 4/Uppg 2414.excalidraw.md",
     "Matte 4/Uppg 2411.excalidraw.md",
     "Matte 4/Uppg 2337.excalidraw.md",
-    "Matte Spec/Inlämning 4.excalidraw.md",
     "Matte Spec/4 Uppgifter linjär algebra skalärprodukt egenskaper och satser.pdf",
     "Matte 4/Uppg 2331.excalidraw.md",
     "Matte 4/Uppg 2327.excalidraw.md",
@@ -192,8 +176,6 @@
     "Matte 4/Uppg 2135.excalidraw.png",
     "Matte 4/Uppg 2135.excalidraw.md",
     "Matte 4/Uppg 2187.excalidraw.md",
-    "Matte 4/Uppg 2233.excalidraw.md",
-    "Matte 4/Uppg 2174.excalidraw.md",
     "Matte 4/assets/Pasted Image 20240919102725_625.png",
     "Matte 4/Formelblad Ma4.pdf",
     "Matte 4/assets/Pasted image 20240917120544.png",
