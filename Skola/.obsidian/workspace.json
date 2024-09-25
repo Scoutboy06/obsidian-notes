@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7e0ca9754b76331d",
+        "id": "4f8ac8d919358c4e",
         "type": "tabs",
         "children": [
           {
-            "id": "17d6389a2c539aed",
+            "id": "2c88f76dfddd0078",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Matte 4/Övningsprov kap 2.excalidraw.md"
+              }
             }
           }
         ]
@@ -82,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Matte 4/Övningsprov kap 2.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Matte 4/Övningsprov kap 2.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Matte 4/Övningsprov kap 2.excalidraw.md"
+              }
             }
           }
         ]
@@ -140,53 +146,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "17d6389a2c539aed",
+  "active": "e5c8bbfc39cd8ba5",
   "lastOpenFiles": [
-    "Matte Spec/Plan.excalidraw.md",
-    "Matte Spec/Inlämning 5.excalidraw.md",
-    "Matte Spec/Kryssprodukt.excalidraw.md",
-    "Matte Spec/Inlämning 4.excalidraw.md",
+    "Matte 4/Övningsprov kap 2.excalidraw.md",
     "Matte 4/Att göra.md",
     "Matte 4/Uppg 2417.excalidraw.md",
-    "Fysik 2/Att göra.md",
-    "Fysik 2/_Planering.pdf",
-    "Matte 4/Uppg 2416.excalidraw.md",
-    "Samhällskunskap/Chad.md",
-    "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
+    "Matte 4/Uppg 2135.excalidraw.md",
+    "Matte 4/Uppg 2135.excalidraw.png",
+    "Matte Spec/Inlämning 5.excalidraw.md",
+    "Matte Spec/Inlämning 4.excalidraw.md",
+    "Matte Spec/Plan.excalidraw.md",
+    "Matte Spec/Kryssprodukt.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
+    "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
+    "Matte Spec/Inlämning 3.excalidraw.md",
+    "Matte Spec/4 Uppgifter linjär algebra skalärprodukt egenskaper och satser.pdf",
+    "Samhällskunskap/Chad.md",
+    "Matte 4/Uppg 2416.excalidraw.md",
     "Matte 4/Uppg 2414.excalidraw.md",
     "Matte 4/Uppg 2411.excalidraw.md",
     "Matte 4/Uppg 2337.excalidraw.md",
-    "Matte Spec/4 Uppgifter linjär algebra skalärprodukt egenskaper och satser.pdf",
     "Matte 4/Uppg 2331.excalidraw.md",
     "Matte 4/Uppg 2327.excalidraw.md",
-    "Notes.md",
     "Matte 4/Uppg 2320.excalidraw.md",
+    "Ink/Writing/2024.9.17 - 12.07pm.writing",
+    "Notes.md",
+    "Matte 4/assets/Pasted Image 20240919102725_625.png",
     "Matte 4/Uppg 2319.excalidraw.md",
-    "Fysik 2/Uppg 134.excalidraw.md",
-    "Fysik 2/Uppg 131.excalidraw.md",
-    "Fysik 2/Uppg 128.excalidraw.md",
-    "Fysik 2/Uppg 122.excalidraw.md",
-    "Matte 4/Facit/s.268; 2182-2221b.jpg",
     "Matte 4/Uppg 2230.excalidraw.md",
     "Matte 4/Uppg 2220.excalidraw.md",
-    "Matte 4/Uppg 2135.excalidraw.png",
-    "Matte 4/Uppg 2135.excalidraw.md",
     "Matte 4/Uppg 2187.excalidraw.md",
-    "Matte 4/assets/Pasted Image 20240919102725_625.png",
+    "Matte 4/Uppg 2185.excalidraw.md",
     "Matte 4/Formelblad Ma4.pdf",
+    "Fysik 2/Uppg 134.excalidraw.md",
+    "Fysik 2/Uppg 131.excalidraw.md",
     "Matte 4/assets/Pasted image 20240917120544.png",
-    "Ink/Writing/2024.9.17 - 12.07pm.writing",
+    "Matte 4/assets",
+    "Matte 4/TE22A Momentplanering Trigonometriska funktioner Ht24.pdf",
     "Ink/Writing",
     "Ink",
-    "Matte 4/assets",
     "Matte 4/Bok/085.jpg",
     "Matte 4/Bok/084.jpg",
     "Matte 4/Bok/083.jpg",
     "Matte 4/Bok/082.jpg",
-    "Matte 4/Bok/081.jpg"
+    "Matte 4/Bok/081.jpg",
+    "Matte 4/Bok/080.jpg"
   ]
 }
