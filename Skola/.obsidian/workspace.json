@@ -4,18 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "710f13f7226950bc",
+        "id": "0636f71fb5adc0af",
         "type": "tabs",
         "children": [
           {
-            "id": "31051e2e4bb691d7",
+            "id": "1e5d0f1ba9d395dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Fysik 2/Att göra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a0f1988646822da",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Fysik 2/Uppg 178.excalidraw.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246
+    "width": 246,
+    "collapsed": true
   },
   "right": {
     "id": "0d1f185d08122ad0",
@@ -81,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fysik 2/Uppg 178.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fysik 2/Uppg 178.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Fysik 2/Uppg 178.excalidraw.md"
+              }
             }
           }
         ]
@@ -139,14 +159,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "31051e2e4bb691d7",
+  "active": "7a0f1988646822da",
   "lastOpenFiles": [
-    "Matte 4/Att göra kap 3.md",
+    "Fysik 2/Att göra.md",
+    "Fysik 2/Uppg 178.excalidraw.md",
+    "Fysik 2/Uppg 177.excalidraw.md",
+    "Fysik 2/Uppg 176.excalidraw.md",
+    "Fysik 2/Bok/053.jpg",
     "Matte 4/Uppg 3131.excalidraw.md",
     "Matte 4/Uppg 3130.excalidraw.md",
     "Matte 4/Uppg 3115.excalidraw.md",
-    "Matte 4/Att göra kap 2.md",
-    "Matte 4/Formelblad Ma4.pdf",
     "Matte 4/Bok/181.jpg",
     "Matte 4/Bok/180.jpg",
     "Matte 4/Bok/179.jpg",
@@ -156,36 +178,34 @@
     "Matte 4/Bok/175.jpg",
     "Matte 4/Bok/174.jpg",
     "Matte 4/Bok/173.jpg",
-    "Matte 4/Bok/172.jpg",
-    "Samhällskunskap/Chad.md",
-    "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
-    "Notes.md",
+    "Matte 4/Att göra kap 3.md",
+    "Matte 4/Att göra kap 2.md",
     "Matte 4/Övningsprov kap 2.excalidraw.md",
-    "Matte Spec/Plan.excalidraw.md",
-    "Matte Spec/Inlämning 5.excalidraw.md",
-    "Matte Spec/Kryssprodukt.excalidraw.md",
-    "Matte Spec/Inlämning 4.excalidraw.md",
+    "Matte 4/Att göra.md",
     "Matte 4/Uppg 2417.excalidraw.md",
-    "Fysik 2/Att göra.md",
-    "Fysik 2/_Planering.pdf",
-    "Matte 4/Uppg 2416.excalidraw.md",
+    "Matte 4/Uppg 2135.excalidraw.md",
+    "Matte Spec/Inlämning 5.excalidraw.md",
+    "Matte Spec/Inlämning 4.excalidraw.md",
+    "Matte Spec/Plan.excalidraw.md",
+    "Matte Spec/Kryssprodukt.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
+    "Matte Spec/Inlämning 3.excalidraw.md",
+    "Matte Spec/4 Uppgifter linjär algebra skalärprodukt egenskaper och satser.pdf",
+    "Samhällskunskap/Chad.md",
+    "Matte 4/Uppg 2416.excalidraw.md",
     "Matte 4/Uppg 2414.excalidraw.md",
     "Matte 4/Uppg 2411.excalidraw.md",
     "Matte 4/Uppg 2337.excalidraw.md",
-    "Matte Spec/4 Uppgifter linjär algebra skalärprodukt egenskaper och satser.pdf",
     "Matte 4/Uppg 2331.excalidraw.md",
     "Matte 4/Uppg 2327.excalidraw.md",
-    "Matte 4/Uppg 2320.excalidraw.md",
-    "Matte 4/Uppg 2319.excalidraw.md",
-    "Fysik 2/Uppg 134.excalidraw.md",
-    "Fysik 2/Uppg 131.excalidraw.md",
-    "Fysik 2/Uppg 128.excalidraw.md",
     "Ink/Writing/2024.9.17 - 12.07pm.writing",
+    "Matte 4/Formelblad Ma4.pdf",
+    "Matte 4/assets",
+    "Matte 4/TE22A Momentplanering Trigonometriska funktioner Ht24.pdf",
     "Ink/Writing",
-    "Ink",
-    "Matte 4/assets"
+    "Ink"
   ]
 }
