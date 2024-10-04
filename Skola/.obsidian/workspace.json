@@ -20,17 +20,27 @@
             }
           },
           {
-            "id": "6fdd4a897f94e241",
+            "id": "8267593cdadd3a90",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Matte 4/Formelblad Ma4.pdf"
+              }
+            }
+          },
+          {
+            "id": "2a23a3a3a65df6d8",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Matte 4/Uppg 3136.excalidraw.md"
+                "file": "Matte 4/Uppg 3145.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matte 4/Uppg 3136.excalidraw.md",
+                "file": "Matte 4/Uppg 3145.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matte 4/Uppg 3136.excalidraw.md",
+                "file": "Matte 4/Uppg 3145.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matte 4/Uppg 3136.excalidraw.md"
+                "file": "Matte 4/Uppg 3145.excalidraw.md"
               }
             }
           }
@@ -159,10 +169,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6fdd4a897f94e241",
+  "active": "2a23a3a3a65df6d8",
   "lastOpenFiles": [
-    "Matte 4/Uppg 3136.excalidraw.md",
     "Matte 4/Att göra kap 3.md",
+    "Matte 4/Momentplanering kap 3.pdf",
+    "Matte 4/Momentplanering kap 2.pdf",
+    "Matte 4/TE22A Momentplanering Derivata och Integraler Ht24.pdf",
+    "Matte 4/Uppg 3145.excalidraw.md",
+    "Matte 4/Formelblad Ma4.pdf",
+    "Matte 4/Uppg 3143.excalidraw.md",
+    "Matte 4/Uppg 3136.excalidraw.md",
     "Matte 4/Genomgång 2024-09-17.excalidraw.md",
     "Fysik 2/Uppg 178.excalidraw.md",
     "Fysik 2/Uppg 177.excalidraw.md",
@@ -171,7 +187,6 @@
     "Matte 4/Uppg 3130.excalidraw.md",
     "Matte 4/Uppg 3115.excalidraw.md",
     "Matte 4/Att göra kap 2.md",
-    "Matte 4/Formelblad Ma4.pdf",
     "Matte 4/Bok/181.jpg",
     "Matte 4/Bok/180.jpg",
     "Matte 4/Bok/179.jpg",
@@ -199,13 +214,7 @@
     "Excalidraw",
     "Matte 4/Uppg 2414.excalidraw.md",
     "Matte 4/Uppg 2411.excalidraw.md",
-    "Matte 4/Uppg 2337.excalidraw.md",
     "Matte Spec/4 Uppgifter linjär algebra skalärprodukt egenskaper och satser.pdf",
-    "Matte 4/Uppg 2331.excalidraw.md",
-    "Matte 4/Uppg 2327.excalidraw.md",
-    "Ink/Writing/2024.9.17 - 12.07pm.writing",
-    "Ink/Writing",
-    "Ink",
-    "Matte 4/assets"
+    "Ink/Writing/2024.9.17 - 12.07pm.writing"
   ]
 }
