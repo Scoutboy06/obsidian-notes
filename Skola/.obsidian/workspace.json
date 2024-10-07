@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4d1244c4d5cb19ba",
+        "id": "9046bfa615a5e7a6",
         "type": "tabs",
         "children": [
           {
-            "id": "e16fa3ad5842fb14",
+            "id": "c7c786ee1db0f1a1",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Matte Spec/Inlämning 6.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -84,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matte Spec/Inlämning 6.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matte Spec/Inlämning 6.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Matte Spec/Inlämning 6.excalidraw.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,42 +140,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "4142bbfca3f1621a",
-    "type": "floating",
-    "children": [
-      {
-        "id": "4d9dee84b3367d39",
-        "type": "window",
-        "children": [
-          {
-            "id": "5ac4226f033c1642",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "73dab06a071827c7",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Matte Spec/Inlämning 6.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 994,
-        "y": 0,
-        "width": 542,
-        "height": 864,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "e16fa3ad5842fb14",
+  "active": "c7c786ee1db0f1a1",
   "lastOpenFiles": [
     "Matte Spec/Inlämning 6.pdf",
     "Matte Spec/Inlämning 6.excalidraw.md",
