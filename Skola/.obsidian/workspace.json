@@ -4,43 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "710f13f7226950bc",
+        "id": "4d1244c4d5cb19ba",
         "type": "tabs",
         "children": [
           {
-            "id": "31051e2e4bb691d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matte 4/Att göra kap 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8267593cdadd3a90",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Matte 4/Formelblad Ma4.pdf"
-              }
-            }
-          },
-          {
-            "id": "2a23a3a3a65df6d8",
+            "id": "e16fa3ad5842fb14",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Matte 4/Uppg 3145.excalidraw.md"
+                "file": "Matte Spec/Inlämning 6.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matte 4/Uppg 3145.excalidraw.md",
+                "file": "Matte Spec/Inlämning 6.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matte 4/Uppg 3145.excalidraw.md",
+                "file": "Matte Spec/Inlämning 6.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matte 4/Uppg 3145.excalidraw.md"
+                "file": "Matte Spec/Inlämning 6.excalidraw.md"
               }
             }
           }
@@ -169,14 +146,55 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2a23a3a3a65df6d8",
+  "floating": {
+    "id": "4142bbfca3f1621a",
+    "type": "floating",
+    "children": [
+      {
+        "id": "4d9dee84b3367d39",
+        "type": "window",
+        "children": [
+          {
+            "id": "5ac4226f033c1642",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "73dab06a071827c7",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Matte Spec/Inlämning 6.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 994,
+        "y": 0,
+        "width": 542,
+        "height": 864,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "e16fa3ad5842fb14",
   "lastOpenFiles": [
+    "Matte Spec/Inlämning 6.pdf",
+    "Matte Spec/Inlämning 6.excalidraw.md",
+    "Matte Spec/Inlämning 6b.pdf",
+    "Matte Spec/5b extra Uppgifter linjär algebra plan i tre dimensioner.pdf",
+    "Matte Spec/5 Uppgifter linjär algebra plan i tre dimensioner.pdf",
+    "Matte Spec/Inlämning 5.excalidraw.md",
+    "Matte 4/Uppg 3145.excalidraw.md",
+    "Matte 4/Formelblad Ma4.pdf",
     "Matte 4/Att göra kap 3.md",
     "Matte 4/Momentplanering kap 3.pdf",
     "Matte 4/Momentplanering kap 2.pdf",
     "Matte 4/TE22A Momentplanering Derivata och Integraler Ht24.pdf",
-    "Matte 4/Uppg 3145.excalidraw.md",
-    "Matte 4/Formelblad Ma4.pdf",
     "Matte 4/Uppg 3143.excalidraw.md",
     "Matte 4/Uppg 3136.excalidraw.md",
     "Matte 4/Genomgång 2024-09-17.excalidraw.md",
@@ -202,7 +220,6 @@
     "Notes.md",
     "Matte 4/Övningsprov kap 2.excalidraw.md",
     "Matte Spec/Plan.excalidraw.md",
-    "Matte Spec/Inlämning 5.excalidraw.md",
     "Matte Spec/Kryssprodukt.excalidraw.md",
     "Matte Spec/Inlämning 4.excalidraw.md",
     "Matte 4/Uppg 2417.excalidraw.md",
@@ -210,11 +227,6 @@
     "Fysik 2/_Planering.pdf",
     "Matte 4/Uppg 2416.excalidraw.md",
     "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
-    "Excalidraw",
-    "Matte 4/Uppg 2414.excalidraw.md",
-    "Matte 4/Uppg 2411.excalidraw.md",
-    "Matte Spec/4 Uppgifter linjär algebra skalärprodukt egenskaper och satser.pdf",
-    "Ink/Writing/2024.9.17 - 12.07pm.writing"
+    "Matte 4/Uppg 2414.excalidraw.md"
   ]
 }
