@@ -11,8 +11,10 @@
             "id": "c7c786ee1db0f1a1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Matte Spec/Inlämning 6.excalidraw.md"
+              }
             }
           }
         ]
@@ -82,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Matte Spec/Inlämning 6.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Matte Spec/Inlämning 6.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Matte Spec/Inlämning 6.excalidraw.md"
+              }
             }
           }
         ]
@@ -145,9 +151,9 @@
     "Matte Spec/Inlämning 6.pdf",
     "Matte Spec/Inlämning 6.excalidraw.md",
     "Matte Spec/Inlämning 6b.pdf",
+    "Matte Spec/Inlämning 5.excalidraw.md",
     "Matte Spec/5b extra Uppgifter linjär algebra plan i tre dimensioner.pdf",
     "Matte Spec/5 Uppgifter linjär algebra plan i tre dimensioner.pdf",
-    "Matte Spec/Inlämning 5.excalidraw.md",
     "Matte 4/Uppg 3145.excalidraw.md",
     "Matte 4/Formelblad Ma4.pdf",
     "Matte 4/Att göra kap 3.md",
