@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "fae7ca99269f86a9",
+        "id": "eb2f1ee31ce6c75b",
         "type": "tabs",
         "children": [
           {
-            "id": "c7c786ee1db0f1a1",
+            "id": "c235012aeb305aa1",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Matte Spec/Inlämning 6.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,8 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matte 4/Att göra kap 3.md",
-                "file": "Matte Spec/Inlämning 6.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,8 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matte 4/Att göra kap 3.md",
-                "file": "Matte Spec/Inlämning 6.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Matte 4/Att göra kap 3.md"
-              }
-              "state": {
-                "file": "Matte Spec/Inlämning 6.excalidraw.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,28 +135,47 @@
       "canvas:Create new canvas": true,
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
-      "graph:Open graph view": true,
-      "canvas:Create new canvas": true,
-      "daily-notes:Open today's daily note": true,
-      "templates:Insert template": true,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c7c786ee1db0f1a1",
+  "active": "c235012aeb305aa1",
   "lastOpenFiles": [
-    "Matte Spec/Inlämning 6.pdf",
+    "Matte 4/Att göra kap 3.md",
+    "Matte 4/Uppg 3230.excalidraw.md",
+    "Matte Spec/Övningsprov.pdf",
+    "Matte Spec/Inlämning 7.excalidraw.md",
+    "Matte Spec/Inlämning 6b.pdf",
+    "Matte 4/Uppg 3227.excalidraw.md",
+    "Matte 4/Uppg 3214.excalidraw.md",
+    "Matte 4/Uppg 3208.excalidraw.md",
+    "Matte 4/Uppg 3203.excalidraw.md",
+    "Matte 4/Uppg 3178.excalidraw.md",
+    "Matte 4/Uppg 3177.excalidraw.md",
+    "math-teacher-library.excalidrawlib",
+    "Matte Spec/Eget formelblad.md",
+    "Ink/Writing/2024.10.12 - 22.44pm.writing",
+    "Ink/Writing/2024.10.12 - 22.44pm (2).writing",
+    "Ink/Drawing/2024.10.12 - 22.45pm.drawing",
+    "Ink/Drawing/2024.10.12 - 22.44pm.drawing",
+    "Ink/Drawing",
+    "Matte 4/Uppg 3176.excalidraw.md",
+    "Matte 4/Uppg 3171.excalidraw.md",
+    "Matte 4/Uppg 3165.excalidraw.md",
+    "Matte 4/Uppg 3164.excalidraw.md",
+    "Matte 4/Uppg 3157.excalidraw.md",
+    "Matte 4/Uppg 3151.excalidraw.md",
+    "Matte 4/Polynomdivision.excalidraw.md",
+    "Matte 4/Geenomgång 2024-10-08.excalidraw.md",
+    "Matte 4/Uppg 3145.excalidraw.md",
+    "Matte Spec/Övningsprov.pdf.crdownload",
+    "Matte Spec/4 Uppgifter linjär algebra skalärprodukt egenskaper och satser.pdf",
+    "Matte Spec/Kryssprodukt.excalidraw.md",
     "Matte Spec/Inlämning 6.excalidraw.md",
     "Matte Spec/Inlämning 5.excalidraw.md",
     "Matte 4/Uppg 3143.excalidraw.md",
     "Matte 4/Uppg 3136.excalidraw.md",
     "Matte 4/Genomgång 2024-09-17.excalidraw.md",
-    "Fysik 2/Uppg 178.excalidraw.md",
-    "Fysik 2/Uppg 177.excalidraw.md",
-    "Fysik 2/Uppg 176.excalidraw.md",
-    "Matte 4/Uppg 3131.excalidraw.md",
-    "Matte 4/Uppg 3130.excalidraw.md",
-    "Matte 4/Uppg 3115.excalidraw.md",
     "Matte 4/Bok/181.jpg",
     "Matte 4/Bok/180.jpg",
     "Matte 4/Bok/179.jpg",
@@ -178,19 +185,6 @@
     "Matte 4/Bok/175.jpg",
     "Matte 4/Bok/174.jpg",
     "Matte 4/Bok/173.jpg",
-    "Matte 4/Bok/172.jpg",
-    "Samhällskunskap/Chad.md",
-    "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
-    "Notes.md",
-    "Matte 4/Övningsprov kap 2.excalidraw.md",
-    "Matte Spec/Plan.excalidraw.md",
-    "Matte Spec/Kryssprodukt.excalidraw.md",
-    "Matte Spec/Inlämning 4.excalidraw.md",
-    "Matte 4/Uppg 2417.excalidraw.md",
-    "Fysik 2/Att göra.md",
-    "Fysik 2/_Planering.pdf",
-    "Matte 4/Uppg 2416.excalidraw.md",
-    "Excalidraw/Scripts/Downloaded",
-    "Matte 4/Uppg 2414.excalidraw.md"
+    "Matte 4/Bok/172.jpg"
   ]
 }
