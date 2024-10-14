@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "9046bfa615a5e7a6",
+        "id": "fae7ca99269f86a9",
         "type": "tabs",
         "children": [
           {
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246,
-    "collapsed": true
+    "width": 246
   },
   "right": {
     "id": "0d1f185d08122ad0",
@@ -84,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Matte 4/Att göra kap 3.md",
                 "file": "Matte Spec/Inlämning 6.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
@@ -101,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Matte 4/Att göra kap 3.md",
                 "file": "Matte Spec/Inlämning 6.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
@@ -124,6 +125,9 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Matte 4/Att göra kap 3.md"
+              }
+              "state": {
                 "file": "Matte Spec/Inlämning 6.excalidraw.md"
               }
             }
@@ -138,10 +142,10 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
