@@ -8,11 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c7c786ee1db0f1a1",
+            "id": "60230a53c22c1a20",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Matte 4/Att göra kap 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11b40ee449e19478",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Matte 4/Uppg 3157.excalidraw.md"
+              }
             }
           }
         ]
@@ -82,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Matte 4/Att göra kap 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Matte 4/Att göra kap 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Matte 4/Att göra kap 3.md"
+              }
             }
           }
         ]
@@ -140,17 +158,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c7c786ee1db0f1a1",
+  "active": "60230a53c22c1a20",
   "lastOpenFiles": [
+    "Matte 4/Uppg 3157.excalidraw.md",
+    "Matte 4/Att göra kap 3.md",
+    "Matte 4/Formelblad Ma4.pdf",
+    "Matte 4/Uppg 3151.excalidraw.md",
+    "Matte 4/Geenomgång 2024-10-08.excalidraw.md",
+    "Matte 4/Uppg 3145.excalidraw.md",
+    "Matte 4/Polynomdivision.excalidraw.md",
     "Matte Spec/Inlämning 6.pdf",
     "Matte Spec/Inlämning 6.excalidraw.md",
     "Matte Spec/Inlämning 6b.pdf",
     "Matte Spec/5b extra Uppgifter linjär algebra plan i tre dimensioner.pdf",
     "Matte Spec/5 Uppgifter linjär algebra plan i tre dimensioner.pdf",
     "Matte Spec/Inlämning 5.excalidraw.md",
-    "Matte 4/Uppg 3145.excalidraw.md",
-    "Matte 4/Formelblad Ma4.pdf",
-    "Matte 4/Att göra kap 3.md",
     "Matte 4/Momentplanering kap 3.pdf",
     "Matte 4/Momentplanering kap 2.pdf",
     "Matte 4/TE22A Momentplanering Derivata och Integraler Ht24.pdf",
@@ -182,10 +204,7 @@
     "Matte Spec/Kryssprodukt.excalidraw.md",
     "Matte Spec/Inlämning 4.excalidraw.md",
     "Matte 4/Uppg 2417.excalidraw.md",
-    "Fysik 2/Att göra.md",
     "Fysik 2/_Planering.pdf",
-    "Matte 4/Uppg 2416.excalidraw.md",
-    "Excalidraw/Scripts/Downloaded",
-    "Matte 4/Uppg 2414.excalidraw.md"
+    "Excalidraw/Scripts/Downloaded"
   ]
 }
