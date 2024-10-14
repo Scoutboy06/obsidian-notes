@@ -8,11 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c235012aeb305aa1",
+            "id": "6a67c73b9eb40377",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Matte Spec/Uppg 4.115.excalidraw.md"
+              }
             }
           }
         ]
@@ -65,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246
+    "width": 246,
+    "collapsed": true
   },
   "right": {
     "id": "0d1f185d08122ad0",
@@ -81,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Matte Spec/Uppg 4.115.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Matte Spec/Uppg 4.115.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Matte Spec/Uppg 4.115.excalidraw.md"
+              }
             }
           }
         ]
@@ -139,12 +146,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c235012aeb305aa1",
+  "active": "6a67c73b9eb40377",
   "lastOpenFiles": [
+    "Matte Spec/Uppg 4.112.excalidraw.md",
+    "Matte Spec/Uppg 4.115.excalidraw.md",
+    "Matte Spec/Inlämning 7.excalidraw.md",
+    "Matte Spec/Övningsprov.pdf",
+    "Matte Spec/Kryssprodukt.excalidraw.md",
     "Matte 4/Att göra kap 3.md",
     "Matte 4/Uppg 3230.excalidraw.md",
-    "Matte Spec/Övningsprov.pdf",
-    "Matte Spec/Inlämning 7.excalidraw.md",
     "Matte Spec/Inlämning 6b.pdf",
     "Matte 4/Uppg 3227.excalidraw.md",
     "Matte 4/Uppg 3214.excalidraw.md",
@@ -170,12 +180,10 @@
     "Matte 4/Uppg 3145.excalidraw.md",
     "Matte Spec/Övningsprov.pdf.crdownload",
     "Matte Spec/4 Uppgifter linjär algebra skalärprodukt egenskaper och satser.pdf",
-    "Matte Spec/Kryssprodukt.excalidraw.md",
     "Matte Spec/Inlämning 6.excalidraw.md",
     "Matte Spec/Inlämning 5.excalidraw.md",
     "Matte 4/Uppg 3143.excalidraw.md",
     "Matte 4/Uppg 3136.excalidraw.md",
-    "Matte 4/Genomgång 2024-09-17.excalidraw.md",
     "Matte 4/Bok/181.jpg",
     "Matte 4/Bok/180.jpg",
     "Matte 4/Bok/179.jpg",
