@@ -17,7 +17,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,6 +147,10 @@
       "canvas:Create new canvas": true,
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
@@ -154,16 +159,7 @@
   "lastOpenFiles": [
     "Matte Spec/Inlämning 6.pdf",
     "Matte Spec/Inlämning 6.excalidraw.md",
-    "Matte Spec/Inlämning 6b.pdf",
     "Matte Spec/Inlämning 5.excalidraw.md",
-    "Matte Spec/5b extra Uppgifter linjär algebra plan i tre dimensioner.pdf",
-    "Matte Spec/5 Uppgifter linjär algebra plan i tre dimensioner.pdf",
-    "Matte 4/Uppg 3145.excalidraw.md",
-    "Matte 4/Formelblad Ma4.pdf",
-    "Matte 4/Att göra kap 3.md",
-    "Matte 4/Momentplanering kap 3.pdf",
-    "Matte 4/Momentplanering kap 2.pdf",
-    "Matte 4/TE22A Momentplanering Derivata och Integraler Ht24.pdf",
     "Matte 4/Uppg 3143.excalidraw.md",
     "Matte 4/Uppg 3136.excalidraw.md",
     "Matte 4/Genomgång 2024-09-17.excalidraw.md",
@@ -173,7 +169,6 @@
     "Matte 4/Uppg 3131.excalidraw.md",
     "Matte 4/Uppg 3130.excalidraw.md",
     "Matte 4/Uppg 3115.excalidraw.md",
-    "Matte 4/Att göra kap 2.md",
     "Matte 4/Bok/181.jpg",
     "Matte 4/Bok/180.jpg",
     "Matte 4/Bok/179.jpg",
