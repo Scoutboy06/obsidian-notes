@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9046bfa615a5e7a6",
+        "id": "cf812db51a7e5bdc",
         "type": "tabs",
         "children": [
           {
-            "id": "60230a53c22c1a20",
+            "id": "1e8d1c4122b19201",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matte 4/Att göra kap 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35ec8f3323ef3a00",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Matte 4/Uppg 3482.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matte 4/Uppg 3482.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matte 4/Uppg 3482.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Matte 4/Uppg 3482.excalidraw.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,8 +140,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "35ec8f3323ef3a00",
+  "active": "1e8d1c4122b19201",
   "lastOpenFiles": [
+    "Matte Spec/Uppg 4.116.excalidraw.md",
+    "Matte Spec/Uppg 4.115.excalidraw.md",
     "Matte 4/Att göra kap 3.md",
     "Matte 4/Uppg 3482.excalidraw.md",
     "Matte 4/Bok/Uppg .excalidraw.md",
@@ -170,7 +153,6 @@
     "Matte 4/Uppg 3157.excalidraw.md",
     "math-teacher-library.excalidrawlib",
     "Matte Spec/Övningsprov.pdf",
-    "Matte Spec/Uppg 4.115.excalidraw.md",
     "Matte Spec/Uppg 4.112.excalidraw.md",
     "Matte Spec/Inlämning 7.excalidraw.md",
     "Matte Spec/Eget formelblad.md",
@@ -196,7 +178,6 @@
     "Matte 4/Uppg 3145.excalidraw.md",
     "Matte 4/Polynomdivision.excalidraw.md",
     "Matte Spec/Inlämning 6.pdf",
-    "Matte Spec/Inlämning 6.excalidraw.md",
     "Matte 4/Bok/181.jpg",
     "Matte 4/Bok/180.jpg",
     "Matte 4/Bok/179.jpg",
