@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0e522dd24411fc10",
+        "id": "b265f48135907ee3",
         "type": "tabs",
         "children": [
           {
-            "id": "4cab2066f7015f04",
+            "id": "9f078b64f62dc21f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Matte Spec/Uppg 4.121.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -37,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabeticalReverse"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -52,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -60,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -84,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matte Spec/Uppg 4.121.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +97,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -101,10 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matte Spec/Uppg 4.121.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -115,7 +123,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -123,9 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Matte Spec/Uppg 4.121.excalidraw.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ]
@@ -138,52 +148,53 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": true,
-      "canvas:Create new canvas": true,
-      "daily-notes:Open today's daily note": true,
-      "templates:Insert template": true,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4cab2066f7015f04",
+  "active": "9f078b64f62dc21f",
   "lastOpenFiles": [
+    "Matte 4/Att göra kap 3.md",
+    "Matte 4/Uppg 3230.excalidraw.md",
+    "Matte 4/Uppg 3495.excalidraw.md",
+    "Matte 4/Uppg 3494.excalidraw.md",
+    "Att göra kap 2.md",
+    "Fysik 2/Uppg 230.excalidraw.md",
+    "Fysik 2/Att göra kap 1.md",
     "Matte Spec/Uppg 4.121.excalidraw.png",
     "Matte Spec/Uppg 4.121.excalidraw.md",
     "Matte Spec/Uppg 4.120.excalidraw.md",
     "Matte Spec/Uppg 4.119.excalidraw.md",
     "Matte Spec/Uppg 4.116.excalidraw.md",
     "Matte Spec/Uppg 4.115.excalidraw.md",
-    "Matte 4/Uppg 3482.excalidraw.md",
     "Matte 4/Bok/Uppg .excalidraw.md",
+    "Matte 4/Momentplanering kap 3.pdf",
+    "Uppg.md",
+    "3227.excalidraw.md",
+    "Matte 4/Uppg 3157.excalidraw.md",
+    "math-teacher-library.excalidrawlib",
+    "Matte Spec/Övningsprov.pdf",
     "Matte Spec/Uppg 4.112.excalidraw.md",
     "Matte Spec/Inlämning 7.excalidraw.md",
-    "Matte Spec/Övningsprov.pdf",
-    "Matte Spec/Kryssprodukt.excalidraw.md",
-    "Matte 4/Att göra kap 3.md",
-    "Matte 4/Uppg 3230.excalidraw.md",
-    "Matte Spec/Inlämning 6b.pdf",
+    "Matte Spec/Eget formelblad.md",
     "Matte 4/Uppg 3227.excalidraw.md",
     "Matte 4/Uppg 3214.excalidraw.md",
     "Matte 4/Uppg 3208.excalidraw.md",
     "Matte 4/Uppg 3203.excalidraw.md",
     "Matte 4/Uppg 3178.excalidraw.md",
     "Matte 4/Uppg 3177.excalidraw.md",
-    "math-teacher-library.excalidrawlib",
-    "Matte Spec/Eget formelblad.md",
+    "Matte 4/Uppg 3176.excalidraw.md",
     "Ink/Writing/2024.10.12 - 22.44pm.writing",
     "Ink/Writing/2024.10.12 - 22.44pm (2).writing",
     "Ink/Drawing/2024.10.12 - 22.45pm.drawing",
     "Ink/Drawing/2024.10.12 - 22.44pm.drawing",
     "Ink/Drawing",
-    "Matte 4/Uppg 3176.excalidraw.md",
-    "Matte 4/Uppg 3171.excalidraw.md",
-    "Matte 4/Uppg 3165.excalidraw.md",
-    "Matte 4/Uppg 3164.excalidraw.md",
-    "Matte 4/Uppg 3157.excalidraw.md",
-    "Matte 4/Uppg 3151.excalidraw.md",
-    "Matte Spec/Övningsprov.pdf.crdownload",
-    "Matte Spec/4 Uppgifter linjär algebra skalärprodukt egenskaper och satser.pdf",
+    "Matte 4/Formelblad Ma4.pdf",
+    "Matte Spec/Inlämning 6.pdf",
     "Matte 4/Bok/181.jpg",
     "Matte 4/Bok/180.jpg",
     "Matte 4/Bok/179.jpg",
