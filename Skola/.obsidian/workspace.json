@@ -4,20 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "21c68a1119130ef0",
+        "id": "6be8472f62b5afc9",
         "type": "tabs",
         "children": [
           {
-            "id": "abebc21c5e46c3ab",
+            "id": "162078573d3e5ada",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Fysik 2/Att göra kap 2.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Att göra kap 2"
+            }
+          },
+          {
+            "id": "810321ae7463af54",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Fysik 2/Uppg 242.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Uppg 242.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,61 +165,60 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": true,
-      "canvas:Create new canvas": true,
-      "daily-notes:Open today's daily note": true,
-      "templates:Insert template": true,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "abebc21c5e46c3ab",
+  "active": "810321ae7463af54",
   "lastOpenFiles": [
+    "Fysik 2/Att göra kap 2.md",
+    "Fysik 2/Uppg 242.excalidraw.md",
+    "Fysik 2/Uppg 241.excalidraw.md",
+    "Fysik 2/Stående vågor i pipor.excalidraw.md",
+    "Fysik 2/_Planering.pdf",
+    "Fysik 2/Bok/090.jpg",
+    "Pasted Image 20241018152326_159.jpg",
+    "Fysik 2/Att göra kap 1.md",
     "Matte 4/Att göra kap 3.md",
+    "Matte 4/Uppg 3609.excalidraw.md",
+    "Matte 4/Genomgång 2024-10-18.excalidraw.md",
     "Matte 4/Uppg 3245.excalidraw.md",
     "Matte 4/Uppg 3244.excalidraw.md",
     "Matte 4/Uppg 3239.excalidraw.md",
     "Matte 4/Uppg 3230.excalidraw.md",
-    "Matte 4/Uppg 3227.excalidraw.md",
-    "Matte 4/Uppg 3214.excalidraw.md",
-    "Matte Spec/Uppg 4.121.excalidraw.md",
     "Matte 4/Uppg 3495.excalidraw.md",
     "Matte 4/Uppg 3494.excalidraw.md",
     "Fysik 2/Uppg 230.excalidraw.md",
-    "Fysik 2/Att göra kap 1.md",
-    "Att göra kap 2.md",
     "Matte Spec/Uppg 4.121.excalidraw.png",
+    "Matte Spec/Uppg 4.121.excalidraw.md",
     "Matte Spec/Uppg 4.120.excalidraw.md",
     "Matte Spec/Uppg 4.119.excalidraw.md",
     "Matte Spec/Uppg 4.116.excalidraw.md",
     "Matte Spec/Uppg 4.115.excalidraw.md",
-    "Matte 4/Uppg 3482.excalidraw.md",
     "Matte 4/Bok/Uppg .excalidraw.md",
+    "Matte 4/Momentplanering kap 3.pdf",
+    "Uppg.md",
+    "3227.excalidraw.md",
+    "Matte 4/Uppg 3157.excalidraw.md",
+    "math-teacher-library.excalidrawlib",
+    "Matte Spec/Övningsprov.pdf",
     "Matte Spec/Uppg 4.112.excalidraw.md",
     "Matte Spec/Inlämning 7.excalidraw.md",
-    "Matte Spec/Övningsprov.pdf",
-    "Matte Spec/Kryssprodukt.excalidraw.md",
-    "Matte Spec/Inlämning 6b.pdf",
-    "Matte 4/Uppg 3208.excalidraw.md",
-    "Matte 4/Uppg 3203.excalidraw.md",
-    "Matte 4/Uppg 3178.excalidraw.md",
-    "Matte 4/Uppg 3177.excalidraw.md",
-    "math-teacher-library.excalidrawlib",
     "Ink/Writing/2024.10.12 - 22.44pm.writing",
     "Ink/Writing/2024.10.12 - 22.44pm (2).writing",
     "Ink/Drawing/2024.10.12 - 22.45pm.drawing",
     "Ink/Drawing/2024.10.12 - 22.44pm.drawing",
     "Ink/Drawing",
-    "Matte Spec/Övningsprov.pdf.crdownload",
-    "Matte Spec/4 Uppgifter linjär algebra skalärprodukt egenskaper och satser.pdf",
     "Matte 4/Bok/181.jpg",
     "Matte 4/Bok/180.jpg",
     "Matte 4/Bok/179.jpg",
     "Matte 4/Bok/178.jpg",
     "Matte 4/Bok/177.jpg",
     "Matte 4/Bok/176.jpg",
-    "Matte 4/Bok/175.jpg",
-    "Matte 4/Bok/174.jpg",
-    "Matte 4/Bok/173.jpg"
+    "Matte 4/Bok/175.jpg"
   ]
 }
