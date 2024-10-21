@@ -11,13 +11,30 @@
             "id": "e0018dbe12f95a36",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Matte 4/Att göra kap 3.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Att göra kap 3"
+            }
+          },
+          {
+            "id": "f9f86e82fb3fcfe6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Matte 4/Uppg 3525.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Uppg 3525.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246
+    "width": 246,
+    "collapsed": true
   },
   "right": {
     "id": "0d1f185d08122ad0",
@@ -89,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Matte 4/Uppg 3525.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Uppg 3525.excalidraw"
             }
           },
           {
@@ -155,9 +174,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e0018dbe12f95a36",
+  "active": "f9f86e82fb3fcfe6",
   "lastOpenFiles": [
     "Matte 4/Att göra kap 3.md",
+    "Matte 4/Uppg 3525.excalidraw.md",
+    "Matte 4/Momentplanering kap 3.pdf",
+    "Matte 4/Uppg 3523.excalidraw.md",
+    "Matte 4/Uppg 3517.excalidraw.md",
+    "Matte 4/Uppg 3513.excalidraw.md",
+    "Matte 4/Uppg 3473.excalidraw.md",
     "Matte 4/Uppg 3445.excalidraw.md",
     "Matte 4/Uppg 3441.excalidraw.md",
     "Pasted Image 20241021095541_705.png",
@@ -183,12 +208,6 @@
     "Matte Spec/Uppg 4.120.excalidraw.md",
     "Matte Spec/Uppg 4.119.excalidraw.md",
     "Matte Spec/Uppg 4.116.excalidraw.md",
-    "Matte Spec/Uppg 4.115.excalidraw.md",
-    "Matte 4/Bok/Uppg .excalidraw.md",
-    "Matte 4/Momentplanering kap 3.pdf",
-    "Uppg.md",
-    "3227.excalidraw.md",
-    "Matte 4/Uppg 3157.excalidraw.md",
     "math-teacher-library.excalidrawlib",
     "Matte Spec/Övningsprov.pdf",
     "Ink/Writing/2024.10.12 - 22.44pm.writing",
