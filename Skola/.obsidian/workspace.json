@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0fa26608697ce34b",
+            "id": "e4853c3524cd0e27",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Matte 4/Att göra kap 4.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Att göra kap 4"
             }
           }
         ]
@@ -73,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246
+    "width": 246,
+    "collapsed": true
   },
   "right": {
     "id": "0d1f185d08122ad0",
@@ -156,14 +161,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0fa26608697ce34b",
+  "active": "e4853c3524cd0e27",
   "lastOpenFiles": [
+    "Matte 4/Uppg 4262.excalidraw.md",
     "Matte 4/Att göra kap 4.md",
+    "Matte 4/Uppg 4263.excalidraw.md",
+    "Matte 4/Uppg 4261.excalidraw.md",
+    "Matte 4/Uppg 4252.excalidraw.md",
+    "Matte 4/Uppg 4251.excalidraw.md",
+    "Matte 4/Uppg 4246.excalidraw.md",
+    "Matte 4/Uppg 4239.excalidraw.md",
     "Matte 4/Uppg 4234.excalidraw.md",
     "Matte 4/Uppg 4232.excalidraw.md",
     "Matte 4/Att göra kap 2.md",
     "Matte 4/Att göra kap 3.md",
-    "Matte 4/Uppg .excalidraw.md",
     "Matte 4/Bok/Uppg .excalidraw.md",
     "Matte 4/Uppg 4220.excalidraw.md",
     "Matte 4/Uppg 4141.excalidraw.md",
@@ -188,13 +199,7 @@
     "Untitled.md",
     "Fysik 2/Att göra kap 2.md",
     "Fysik 2/Uppg 243.excalidraw.md",
-    "Fysik 2/Uppg 242.excalidraw.md",
-    "Matte 4/Övningsprov kap 3.excalidraw.md",
     "Matte 4/Övningsprov derivata och integraler (med facit).pdf",
-    "Matte 4/Uppg 3621.excalidraw.md",
-    "Matte 4/Uppg 3610.excalidraw.md",
-    "Matte 4/Uppg 3604.excalidraw.md",
-    "Matte 4/Uppg 3618.excalidraw.md",
     "Matte 4/Momentplanering kap 3.pdf",
     "Fysik 2/_Planering.pdf",
     "math-teacher-library.excalidrawlib",
