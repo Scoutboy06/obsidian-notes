@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a7f90141c5bd6c74",
+        "id": "d467b123b729f1c9",
         "type": "tabs",
         "children": [
           {
-            "id": "e4853c3524cd0e27",
+            "id": "e63e18248a0d995d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,18 +22,19 @@
             }
           },
           {
-            "id": "8ec1137ea08e1534",
+            "id": "7f44a9ac74ecc2eb",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Matte 4/Uppg 4312.excalidraw.md"
+                "file": "Matte 4/Uppg 434.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Uppg 4312.excalidraw"
+              "title": "Uppg 434.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,10 +174,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e4853c3524cd0e27",
+  "active": "7f44a9ac74ecc2eb",
   "lastOpenFiles": [
-    "Matte 4/Uppg 4312.excalidraw.md",
     "Matte 4/Att göra kap 4.md",
+    "Matte 4/Uppg 434.excalidraw.md",
+    "Matte 4/Uppg 4339.excalidraw.md",
+    "Matte 4/Momentplanering kap 3.pdf",
+    "Matte 4/NP_upp_komplexa_tal.excalidraw.md",
+    "Matte 4/Formelblad Ma4.pdf",
+    "Matte 4/Uppg 4312.excalidraw.md",
     "Matte 4/Uppg 4317.excalidraw.md",
     "Matte 4/Facit/4316-4330.jpg",
     "Matte 4/Facit/4506-4511.jpg",
@@ -188,7 +194,6 @@
     "Matte 4/Bok/250.jpg",
     "Matte 4/Bok/249.jpg",
     "Matte 4/Bok/248.jpg",
-    "Matte 4/Momentplanering kap 3.pdf",
     "Matte 4/Uppg 4262.excalidraw.md",
     "Matte 4/Uppg 4263.excalidraw.md",
     "Matte 4/Uppg 4261.excalidraw.md",
@@ -209,9 +214,6 @@
     "Matte 4/Uppg 4131.excalidraw.md",
     "Matte 4/Uppg 4128.excalidraw.md",
     "Samhällskunskap/Samhällsekonomi - sektorer.excalidraw.md",
-    "Matte 4/Uppg 4132.excalidraw.md",
-    "Matte 4/Uppg 4112.excalidraw.md",
-    "Untitled.md",
     "Matte 4/Övningsprov derivata och integraler (med facit).pdf",
     "Fysik 2/_Planering.pdf",
     "math-teacher-library.excalidrawlib",
@@ -219,7 +221,6 @@
     "Ink/Writing/2024.10.12 - 22.44pm.writing",
     "Ink/Writing/2024.10.12 - 22.44pm (2).writing",
     "Ink/Drawing/2024.10.12 - 22.45pm.drawing",
-    "Ink/Drawing/2024.10.12 - 22.44pm.drawing",
-    "Ink/Drawing"
+    "Ink/Drawing/2024.10.12 - 22.44pm.drawing"
   ]
 }
