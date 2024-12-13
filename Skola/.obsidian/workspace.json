@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "423ca83596e27911",
+        "id": "5c394e350e5763d9",
         "type": "tabs",
         "children": [
           {
-            "id": "5b0b54ed438b8f03",
+            "id": "167128c3f1c62d39",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Matte 4/Extrauppgifter komplexa tal.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Extrauppgifter komplexa tal.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -75,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246,
-    "collapsed": true
+    "width": 246
   },
   "right": {
     "id": "0d1f185d08122ad0",
@@ -159,36 +156,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5b0b54ed438b8f03",
+  "active": "167128c3f1c62d39",
   "lastOpenFiles": [
-    "Matte 4/Extrauppgifter komplexa tal.excalidraw.md",
-    "Matte 4/NP_upp_komplexa_tal.excalidraw.md",
-    "Matte 4/Övningsprov komplexa tal.excalidraw.md",
-    "Matte 4/Uppg 4452.excalidraw.md",
-    "Matte 4/Uppg 4445.excalidraw.md",
-    "Matte 4/Uppg 4439.excalidraw.md",
-    "Matte 4/Uppg 4435.excalidraw.md",
-    "Matte 4/Uppg 4432.excalidraw.md",
-    "Matte 4/Uppg 4424.excalidraw.md",
-    "Matte 4/Uppg 4421.excalidraw.md",
-    "Matte 4/Övningsprov komplexa tal Ma4.pdf",
-    "Matte 4/Uppg 4415.excalidraw.md",
-    "Matte 4/Uppg 4414.excalidraw.md",
-    "Matte 4/Uppg 4331.excalidraw.md",
-    "Matte 4/Uppg 4330.excalidraw.md",
-    "Matte 4/Uppg 4324.excalidraw.md",
-    "Matte 4/Uppg 4322.excalidraw.md",
-    "Matte 4/Uppg 4319.excalidraw.md",
+    "Matte 4/2024-12-12.excalidraw.md",
+    "Matte 4/NpMa4 ht 2013 - Delprov B.excalidraw.md",
     "Matte 4/Inför NP.excalidraw.md",
-    "Matte Spec/Bästa möjliga n-gradare.excalidraw.md",
+    "Fysik 2/2024-12-11.excalidraw.md",
+    "Fysik 2/Uppg 343.excalidraw.md",
+    "Svenska 3/Arbetarlitteratur - tankekarta.excalidraw.md",
+    "Svenska 3/Språkhistoria.md",
+    "Matte 4/2024-12-09.excalidraw.md",
     "Untitled.md",
-    "Matte Spec/Determinant fortsättning.excalidraw.md",
-    "Matte Spec/Determinant.excalidraw.md",
+    "Fysik 2/Magnetiska material.excalidraw.md",
+    "Matte 4/Extrauppgifter komplexa tal.excalidraw.md",
+    "Matte 4/Övningsprov kap 2.excalidraw.md",
+    "Matte 4/Övningsprov kap 3.excalidraw.md",
+    "Matte 4/Övningsprov komplexa tal.excalidraw.md",
+    "Matte Spec/Regression via normalekvation.excalidraw.md",
+    "Untitled 1.md",
+    "Untitled 2.md",
+    "Matte Spec/Lektion 2024-12-04.excalidraw.md",
+    "Fysik 2/Att göra kap 3.md",
+    "Fysik 2/Uppg 307.excalidraw.md",
+    "Fysik 2/Uppg 306.excalidraw.md",
+    "Fysik 2/E1.7.excalidraw.md",
+    "Fysik 2/E1.6.excalidraw.md",
+    "Fysik 2/Att göra kap 2.md",
+    "Matte 4/NP_upp_komplexa_tal.excalidraw.md",
+    "Matte 4/Uppg 4452.excalidraw.md",
+    "Matte 4/Övningsprov komplexa tal Ma4.pdf",
     "Matte Spec/Rotationsmatriser.excalidraw.png",
-    "Matte Spec/Rotationsmatriser.excalidraw.md",
-    "Matte Spec/Uppg 4.121.excalidraw.md",
-    "Matte Spec/Lektion 2024-09-04.excalidraw.md",
-    "Matte Spec/2024-11-20.excalidraw.md",
     "Fysik 2/_Planering.pdf",
     "Matte Spec/Inlämning_eget.excalidraw.png",
     "Pasted Image 20241022205158_221.png",
