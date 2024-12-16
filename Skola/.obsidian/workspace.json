@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7efbf44c02f07615",
+        "id": "279ef4a77a23834e",
         "type": "tabs",
         "children": [
           {
-            "id": "0a8b37a306c3a218",
+            "id": "048df20bce452bc9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Matte 4/NpMa4 ht 2014.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "NpMa4 ht 2014.excalidraw"
             }
           }
         ]
@@ -73,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246
+    "width": 246,
+    "collapsed": true
   },
   "right": {
     "id": "0d1f185d08122ad0",
@@ -159,8 +162,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": true
     }
   },
-  "active": "0a8b37a306c3a218",
+  "active": "048df20bce452bc9",
   "lastOpenFiles": [
+    "Matte 4/NpMa4 ht 2014.excalidraw.md",
     "Matte 4/NpMa4 ht 2013 - Delprov B.excalidraw.md",
     "Matte 4/ooonejnejnej.excalidraw.md",
     "Untitled.md",
@@ -187,7 +191,6 @@
     "Matte 4/Uppg 4424.excalidraw.md",
     "Matte 4/Uppg 4421.excalidraw.md",
     "Matte 4/Uppg 4414.excalidraw.md",
-    "Matte 4/Uppg 4415.excalidraw.md",
     "Matte 4/Formelblad Ma4.pdf",
     "Matte Spec/Rotationsmatriser.excalidraw.png",
     "math-teacher-library.excalidrawlib",
