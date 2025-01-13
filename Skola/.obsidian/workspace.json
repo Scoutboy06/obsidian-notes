@@ -4,22 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "a5c7b8f16e609760",
+        "id": "f5a2e78bccca2b9f",
         "type": "tabs",
         "children": [
           {
-            "id": "218e40c97cf59821",
+            "id": "b1f7777b895ec597",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matte 5/Att göra kap 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Att göra kap 1"
+            }
+          },
+          {
+            "id": "a0286920e3c46dcc",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Matte Spec/Eigen.excalidraw.md"
+                "file": "Matte 5/Uppg 1146.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Eigen.excalidraw"
+              "title": "Uppg 1146.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,13 +155,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "8e7ba5f50eae4024",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,37 +181,39 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "218e40c97cf59821",
+  "active": "a0286920e3c46dcc",
   "lastOpenFiles": [
+    "Matte 5/Att göra kap 1.md",
+    "Matte 5/Uppg 1146.excalidraw.md",
+    "Matte 5/Uppg 1144.excalidraw.md",
+    "Matte 5/Uppg 1136.excalidraw.md",
+    "Matte 5/Uppg 1132.excalidraw.md",
+    "Matte 5/2025-01-13.excalidraw.md",
+    "Matte 5/Uppg 1126.excalidraw.md",
+    "Fysik 2/2025-01-08.excalidraw.md",
+    "Fysik 2/2025-01-10.excalidraw.md",
+    "Matte 5/Uppg 1127.excalidraw.md",
+    "Matte 5/Uppg 1123.excalidraw.md",
+    "Matte 5/Uppg 1114.excalidraw.md",
+    "Matte Spec/2025-01-08.excalidraw.md",
+    "Fysik 2/Uppg 336.excalidraw.md",
+    "Fysik 2/Uppg 335.excalidraw.md",
+    "Fysik 2/2024-12-11.excalidraw.md",
+    "Matte 5/Uppg 1113.excalidraw.md",
+    "Matte 5/Uppg 1112.excalidraw.md",
+    "Matte 5/Uppg 1111.excalidraw.md",
+    "Matte 5/Uppg 1107.excalidraw.md",
+    "Matte 5/Uppg 1104.excalidraw.md",
+    "Matte 5",
     "Matte Spec/Eigen.excalidraw.md",
     "Matte Spec/Determinant.excalidraw.md",
     "Matte 4/NpMa4 ht 2014.excalidraw.md",
     "Matte 4/NpMa4 ht 2013 - Delprov B.excalidraw.md",
     "Matte 4/2024-12-12.excalidraw.md",
-    "Matte 4/Inför NP.excalidraw.md",
-    "Fysik 2/2024-12-11.excalidraw.md",
-    "Fysik 2/Uppg 343.excalidraw.md",
-    "Svenska 3/Arbetarlitteratur - tankekarta.excalidraw.md",
-    "Svenska 3/Språkhistoria.md",
-    "Matte 4/2024-12-09.excalidraw.md",
-    "Untitled.md",
-    "Fysik 2/Magnetiska material.excalidraw.md",
-    "Matte 4/Extrauppgifter komplexa tal.excalidraw.md",
-    "Matte 4/Övningsprov kap 2.excalidraw.md",
-    "Matte 4/Övningsprov kap 3.excalidraw.md",
-    "Matte 4/Övningsprov komplexa tal.excalidraw.md",
-    "Matte Spec/Regression via normalekvation.excalidraw.md",
-    "Untitled 1.md",
-    "Untitled 2.md",
-    "Matte Spec/Lektion 2024-12-04.excalidraw.md",
-    "Fysik 2/Att göra kap 3.md",
-    "Fysik 2/Uppg 307.excalidraw.md",
-    "Fysik 2/Uppg 306.excalidraw.md",
-    "Fysik 2/E1.7.excalidraw.md",
-    "Fysik 2/E1.6.excalidraw.md",
     "Matte 4/Övningsprov komplexa tal Ma4.pdf",
     "Matte Spec/Rotationsmatriser.excalidraw.png",
     "Fysik 2/_Planering.pdf",
@@ -205,7 +232,6 @@
     "Matte 4/Övningsprov derivata och integraler (med facit).pdf",
     "math-teacher-library.excalidrawlib",
     "Ink/Writing/2024.10.12 - 22.44pm.writing",
-    "Ink/Writing/2024.10.12 - 22.44pm (2).writing",
-    "Ink/Drawing/2024.10.12 - 22.45pm.drawing"
+    "Ink/Writing/2024.10.12 - 22.44pm (2).writing"
   ]
 }
