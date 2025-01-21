@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f5a2e78bccca2b9f",
+        "id": "54719866aeec5246",
         "type": "tabs",
         "children": [
           {
-            "id": "b1f7777b895ec597",
+            "id": "d9b7eb1879a77483",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Matte 5/Att göra kap 1.md",
-                "mode": "source",
-                "source": false
+                "file": "Matte 5/Uppg 1177.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Att göra kap 1"
+              "icon": "excalidraw-icon",
+              "title": "Uppg 1177.excalidraw"
             }
           }
         ]
@@ -77,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246
+    "width": 246,
+    "collapsed": true
   },
   "right": {
     "id": "0d1f185d08122ad0",
@@ -172,10 +171,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b1f7777b895ec597",
+  "active": "d9b7eb1879a77483",
   "lastOpenFiles": [
-    "Matte 5/Uppg 1157.excalidraw.md",
+    "Matte 5/Uppg 1174.excalidraw.md",
+    "Matte 5/Uppg 1177.excalidraw.md",
+    "Fysik 2/Uppg 3101.excalidraw.md",
+    "Fysik 2/Uppg 3100.excalidraw.md",
+    "Fysik 2/Uppg 399.excalidraw.md",
+    "Fysik 2/Att göra kap 3.md",
+    "Matte Spec/2025-01-15.excalidraw.md",
+    "Matte Spec/2025-01-08.excalidraw.md",
+    "Matte Spec/2024-08-28.excalidraw.md",
+    "Matte Spec/2024-09-04.excalidraw.md",
+    "Matte Spec/2024-12-04.excalidraw.md",
+    "Fysik 2/2025-01-15.excalidraw.md",
+    "Fysik 2/_Eget formelblad.excalidraw.md",
     "Matte 5/Att göra kap 1.md",
+    "Matte 5/Uppg 1161.excalidraw.md",
+    "Matte 5/Uppg 1159.excalidraw.md",
+    "Matte 5/Uppg 1157.excalidraw.md",
     "Matte 5/Uppg 1153.excalidraw.md",
     "Matte 5/Uppg 1149.excalidraw.md",
     "Matte 5/Uppg 1146.excalidraw.md",
@@ -185,22 +199,7 @@
     "Matte 5/2025-01-13.excalidraw.md",
     "Matte 5/Uppg 1126.excalidraw.md",
     "Fysik 2/2025-01-08.excalidraw.md",
-    "Fysik 2/2025-01-10.excalidraw.md",
-    "Matte 5/Uppg 1127.excalidraw.md",
-    "Matte 5/Uppg 1123.excalidraw.md",
-    "Matte 5/Uppg 1114.excalidraw.md",
-    "Matte Spec/2025-01-08.excalidraw.md",
-    "Fysik 2/Uppg 336.excalidraw.md",
-    "Fysik 2/Uppg 335.excalidraw.md",
-    "Fysik 2/2024-12-11.excalidraw.md",
-    "Matte 5/Uppg 1113.excalidraw.md",
-    "Matte 5/Uppg 1112.excalidraw.md",
-    "Matte 5/Uppg 1111.excalidraw.md",
-    "Matte 5/Uppg 1107.excalidraw.md",
-    "Matte 5/Uppg 1104.excalidraw.md",
     "Matte 5",
-    "Matte Spec/Eigen.excalidraw.md",
-    "Matte Spec/Determinant.excalidraw.md",
     "Matte 4/Övningsprov komplexa tal Ma4.pdf",
     "Matte Spec/Rotationsmatriser.excalidraw.png",
     "Fysik 2/_Planering.pdf",
