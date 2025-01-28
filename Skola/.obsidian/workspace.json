@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "888b6324a5f2c809",
+        "id": "523b3cda72716b94",
         "type": "tabs",
         "children": [
           {
-            "id": "8e6059a4d29c1aa3",
+            "id": "47f66d26e43ab196",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Fysik 2/Uppg 3129.excalidraw.md"
+                "file": "Matte 5/Övningsprov kap 1.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Uppg 3129.excalidraw"
+              "title": "Övningsprov kap 1.excalidraw"
             }
           }
         ]
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matte 4/Uppg 4439.excalidraw.md",
+                "file": "Matte 4/Uppg 3525.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Uppg 4439.excalidraw"
+              "title": "Backlinks for Uppg 3525.excalidraw"
             }
           },
           {
@@ -111,12 +111,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matte 4/Uppg 4439.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Uppg 4439.excalidraw"
+              "title": "Outgoing links"
             }
           },
           {
@@ -137,14 +136,23 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Matte 4/Uppg 4439.excalidraw.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Uppg 4439.excalidraw"
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "8e7ba5f50eae4024",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -153,63 +161,63 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": true,
-      "canvas:Create new canvas": true,
-      "daily-notes:Open today's daily note": true,
-      "templates:Insert template": true,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": true
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8e6059a4d29c1aa3",
+  "active": "47f66d26e43ab196",
   "lastOpenFiles": [
+    "Matte 5/Övningsprov kap 1.excalidraw.md",
     "Fysik 2/Uppg 3129.excalidraw.md",
     "Fysik 2/Uppg 3120.excalidraw.md",
-    "Fysik 2/Magnetiska material.excalidraw.md",
-    "Fysik 2/Stående vågor i pipor.excalidraw.md",
-    "Fysik 2/2025-01-15.excalidraw.md",
-    "Fysik 2/2024-12-11.excalidraw.md",
-    "Fysik 2/2025-01-08.excalidraw.md",
-    "Fysik 2/2025-01-10.excalidraw.md",
     "Fysik 2/Uppg 3117.excalidraw.md",
-    "Fysik 2/Uppg 3116.excalidraw.md",
     "Matte 5/Uppg 1213.excalidraw.md",
     "Matte 5/Uppg 1212.excalidraw.md",
     "Matte 5/Uppg 1209.excalidraw.md",
     "Matte 5/Uppg 1204.excalidraw.md",
-    "Matte 5/Uppg 1188.excalidraw.md",
+    "Fysik 2/Uppg 3116.excalidraw.md",
     "Fysik 2/Uppg 3114.excalidraw.md",
     "Fysik 2/Uppg 3113.excalidraw.md",
     "Fysik 2/Uppg 3105.excalidraw.md",
+    "Matte 5/Uppg 1188.excalidraw.md",
+    "Matte 5/Uppg 1177.excalidraw.md",
     "Fysik 2/Uppg 3104.excalidraw.md",
     "Fysik 2/Uppg 3103.excalidraw.md",
     "Fysik 2/Uppg 3102.excalidraw.md",
-    "Fysik 2/Uppg 243.excalidraw.md",
+    "Matte 5/Uppg 1174.excalidraw.md",
     "Fysik 2/Uppg 3101.excalidraw.md",
-    "Fysik 2/_Planering.pdf",
     "Fysik 2/Uppg 3100.excalidraw.md",
-    "Matte Spec/Eigen.excalidraw.md",
+    "Fysik 2/Uppg 399.excalidraw.md",
+    "Fysik 2/Att göra kap 3.md",
     "Matte Spec/2025-01-15.excalidraw.md",
+    "Matte Spec/2025-01-08.excalidraw.md",
+    "Matte Spec/2024-08-28.excalidraw.md",
+    "Matte Spec/2024-09-04.excalidraw.md",
     "Matte 5",
-    "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
     "Matte 4/Övningsprov komplexa tal Ma4.pdf",
-    "Matte 4/Formelblad Ma4.pdf",
     "Matte Spec/Rotationsmatriser.excalidraw.png",
-    "math-teacher-library.excalidrawlib",
+    "Fysik 2/_Planering.pdf",
+    "Matte Spec/Inlämning_eget.excalidraw.png",
     "Pasted Image 20241022205158_221.png",
     "Pasted Image 20241021095541_705.png",
     "Pasted Image 20241018152326_159.jpg",
+    "Matte Spec/Inlämning 11.excalidraw.png",
     "Matte Spec/Övningsprov.pdf",
-    "Matte Spec/Inlämning 6b.pdf",
-    "Matte Spec/Inlämning 6.pdf",
-    "Matte 4/Övningsprov derivata och integraler (med facit).pdf",
     "Matte 4/Momentplanering kap 3.pdf",
-    "Matte 4/Facit/s.296;4242-4263.jpg",
+    "Matte 4/Formelblad Ma4.pdf",
+    "Matte 4/Facit/4316-4330.jpg",
     "Matte 4/Facit/4506-4511.jpg",
     "Matte 4/Facit/4436-4505.jpg",
     "Matte 4/Facit/4405-4435.jpg",
-    "Matte 4/Facit/4331-4404.jpg"
+    "Matte 4/Övningsprov derivata och integraler (med facit).pdf",
+    "math-teacher-library.excalidrawlib",
+    "Ink/Writing/2024.10.12 - 22.44pm.writing",
+    "Ink/Writing/2024.10.12 - 22.44pm (2).writing"
   ]
 }
