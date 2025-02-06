@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "79e46df37e8d8358",
+        "id": "822502d09fc56273",
         "type": "tabs",
         "children": [
           {
-            "id": "d78ccd798e00d7ce",
+            "id": "e07390d52f58c23c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246,
-    "collapsed": true
+    "width": 246
   },
   "right": {
     "id": "0d1f185d08122ad0",
@@ -170,10 +169,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d78ccd798e00d7ce",
+  "active": "e07390d52f58c23c",
   "lastOpenFiles": [
-    "Fysik 2/2025-02-05.excalidraw.md",
+    "Matte 5/Uppg 2132.excalidraw.md",
+    "Matte 5/Uppg 2125.excalidraw.md",
+    "Matte 5/Uppg 2123.excalidraw.md",
+    "Matte 5/Uppg 2119.excalidraw.md",
     "Matte 5/Uppg 2115.excalidraw.md",
+    "Fysik 2/2025-02-05.excalidraw.md",
     "Matte 5/Uppg 2111.excalidraw.md",
     "Matte 5/Uppg 2103.excalidraw.md",
     "Fysik 2/2024-01-31.excalidraw.md",
@@ -194,10 +197,6 @@
     "Fysik 2/Uppg 3104.excalidraw.md",
     "Fysik 2/Uppg 3103.excalidraw.md",
     "Fysik 2/Uppg 3102.excalidraw.md",
-    "Matte 5/Uppg 1174.excalidraw.md",
-    "Fysik 2/Uppg 3101.excalidraw.md",
-    "Fysik 2/Uppg 3100.excalidraw.md",
-    "Fysik 2/Uppg 399.excalidraw.md",
     "Matte 5",
     "Matte 4/Övningsprov komplexa tal Ma4.pdf",
     "Matte Spec/Rotationsmatriser.excalidraw.png",
