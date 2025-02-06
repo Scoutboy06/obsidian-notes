@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "523b3cda72716b94",
+        "id": "79e46df37e8d8358",
         "type": "tabs",
         "children": [
           {
-            "id": "47f66d26e43ab196",
+            "id": "d78ccd798e00d7ce",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Matte 5/Övningsprov kap 1.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Övningsprov kap 1.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -38,7 +36,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse"
+                "sortOrder": "alphabeticalReverse",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -171,8 +170,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47f66d26e43ab196",
+  "active": "d78ccd798e00d7ce",
   "lastOpenFiles": [
+    "Fysik 2/2025-02-05.excalidraw.md",
+    "Matte 5/Uppg 2115.excalidraw.md",
+    "Matte 5/Uppg 2111.excalidraw.md",
+    "Matte 5/Uppg 2103.excalidraw.md",
+    "Fysik 2/2024-01-31.excalidraw.md",
     "Matte 5/Övningsprov kap 1.excalidraw.md",
     "Fysik 2/Uppg 3129.excalidraw.md",
     "Fysik 2/Uppg 3120.excalidraw.md",
@@ -194,11 +198,6 @@
     "Fysik 2/Uppg 3101.excalidraw.md",
     "Fysik 2/Uppg 3100.excalidraw.md",
     "Fysik 2/Uppg 399.excalidraw.md",
-    "Fysik 2/Att göra kap 3.md",
-    "Matte Spec/2025-01-15.excalidraw.md",
-    "Matte Spec/2025-01-08.excalidraw.md",
-    "Matte Spec/2024-08-28.excalidraw.md",
-    "Matte Spec/2024-09-04.excalidraw.md",
     "Matte 5",
     "Matte 4/Övningsprov komplexa tal Ma4.pdf",
     "Matte Spec/Rotationsmatriser.excalidraw.png",

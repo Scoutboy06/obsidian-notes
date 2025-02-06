@@ -102,6 +102,73 @@
     "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.7.1",
     "libraryItems": [
       {
+        "id": "-dBG1b-RKdl9qfGy9OAWa",
+        "status": "unpublished",
+        "elements": [
+          {
+            "id": "lphkMGcX-iZoRcrN_QFPU",
+            "type": "rectangle",
+            "x": -923.9999504089355,
+            "y": -839.4812259674072,
+            "width": 48,
+            "height": 118.40000915527344,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 0.5,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [
+              "gIFevSLH5Q1Lwn7Uufyi2"
+            ],
+            "frameId": null,
+            "index": "b01",
+            "roundness": null,
+            "seed": 1592206544,
+            "version": 78,
+            "versionNonce": 1094881488,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 1738319208595,
+            "link": null,
+            "locked": false
+          },
+          {
+            "id": "6QJIcngnlg3r7-IoPxy9t",
+            "type": "rectangle",
+            "x": -923.9999504089355,
+            "y": -779.4812030792236,
+            "width": 48,
+            "height": 57.600021362304695,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "#ffc9c9",
+            "fillStyle": "hachure",
+            "strokeWidth": 1,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [
+              "gIFevSLH5Q1Lwn7Uufyi2"
+            ],
+            "frameId": null,
+            "index": "b02",
+            "roundness": null,
+            "seed": 1877937200,
+            "version": 174,
+            "versionNonce": 1451729968,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 1738319208595,
+            "link": null,
+            "locked": false
+          }
+        ],
+        "created": 1738319212001
+      },
+      {
         "id": "rMvbrCyBm0sKRxjlW2A2d",
         "status": "unpublished",
         "elements": [
